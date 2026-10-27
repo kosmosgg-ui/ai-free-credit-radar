@@ -1,0 +1,26 @@
+{
+  "project_name": "무료 AI 쌀먹 레이더",
+  "max_age_days": 14,
+  "max_items": 250,
+  "alert_min_score": 7,
+  "sources": {
+    "official_pages": [
+      {"name":"공식 · Google Gemini", "title":"Gemini AI API 무료등급 공식 안내", "url":"https://ai.google.dev/gemini-api/docs/pricing", "required_terms":["Free input & output tokens"]},
+      {"name":"공식 · Cloudflare", "title":"Cloudflare Workers AI 무료 API 할당량 안내", "url":"https://developers.cloudflare.com/workers-ai/platform/pricing/", "required_terms":["10,000 Neurons per day at no charge"]},
+      {"name":"공식 · OpenRouter", "title":"OpenRouter AI API free 모델 공식 안내", "url":"https://openrouter.ai/docs/guides/routing/model-variants/free", "required_terms":["access free versions of models", "access to models without cost"]}
+    ],
+    "dc_ai_gallery": {"enabled": true, "pages": 1},
+    "google_news_ko": {
+      "enabled": true,
+      "queries": ["AI 무료 크레딧 API", "AI API 무료 프로모션", "인공지능 무료 토큰 지원", "AI 도구 무료 체험 이벤트"]
+    },
+    "google_news_en": {
+      "enabled": true,
+      "queries": ["AI API free credits", "LLM inference free tier promotion", "AI developer free trial credits"]
+    },
+    "hacker_news": {
+      "enabled": true,
+      "queries": ["free AI credits", "free inference API", "LLM free tier"]
+    }
+  }
+}

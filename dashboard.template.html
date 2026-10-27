@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>무료 AI 쌀먹 레이더</title>
+<style>
+:root { color-scheme:dark; --bg:#0b1020; --panel:#141d32; --panel2:#1a263c; --line:#2a3850; --text:#e9f1ff; --muted:#91a3bd; --accent:#5be7c4; --purple:#a9a2ff; }
+*{box-sizing:border-box}body{margin:0;background:radial-gradient(ellipse at 75% -20%,#203d54 0%,var(--bg) 45%);font-family:system-ui,-apple-system,'Noto Sans KR',sans-serif;color:var(--text);line-height:1.5}
+a{color:var(--accent)}.wrap{max-width:1080px;margin:auto;padding:26px 20px 60px}
+header{display:flex;align-items:flex-start;justify-content:space-between;gap:15px;flex-wrap:wrap}
+.pretitle{font-size:12px;letter-spacing:2px;color:var(--accent);font-weight:800}.hero{font-size:clamp(28px,6vw,44px);font-weight:850;margin:4px 0 8px;letter-spacing:-1.3px}.lead{color:var(--muted);font-size:14px;margin:0}
+.pill{font-size:12px;background:#24364a;border:1px solid #49677b;border-radius:99px;padding:7px 12px;color:#b9d8eb}
+.pill.demo{background:#5f382c;color:#ffdba5;border-color:#9a5337}
+.stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin-top:30px}
+.stat{background:linear-gradient(145deg,#182840,#101c30);padding:18px;border:1px solid var(--line);border-radius:16px}
+.stat b{font-size:26px;display:block;font-variant-numeric:tabular-nums}.stat span{display:block;color:var(--muted);font-size:12px;margin-top:4px}
+.section-header{margin-top:32px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px}
+h2{font-size:18px;margin:0}.filters{display:flex;gap:8px;flex-wrap:wrap;margin:15px 0 20px}
+input,select{appearance:none;border:1px solid #334560;background:#142037;color:#e2f0ff;padding:12px 13px;border-radius:10px;font:inherit;font-size:14px;min-width:0}
+input{flex:1;min-width:170px}select{max-width:210px}.card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:18px;margin:12px 0;box-shadow:0 5px 20px #0001}
+.cardtop{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}.source{font-size:12px;color:var(--purple);font-weight:700}
+.meta{font-size:12px;color:var(--muted)}.card h3{font-size:16px;line-height:1.48;margin:10px 0 8px;overflow-wrap:anywhere}.card p{color:var(--muted);font-size:13px;margin:8px 0}
+.tags{display:flex;gap:6px;flex-wrap:wrap;margin-top:12px}.tag{font-size:11px;background:#293a50;color:#c9e1f4;padding:4px 8px;border-radius:7px}.score{font-size:12px;color:var(--accent)}.verify{font-size:12px;color:#fac989}
+.open{display:inline-block;margin-top:14px;padding:8px 12px;text-decoration:none;background:#193e41;border:1px solid #34756b;border-radius:8px;font-size:12px;color:#a5fff0;font-weight:700}
+.details{margin-top:22px;padding:16px;background:#101a2a;border:1px solid var(--line);border-radius:12px}summary{cursor:pointer;font-weight:700;font-size:13px}
+.health{display:grid;grid-template-columns:1fr auto;gap:8px;border-bottom:1px solid #28384f;padding:9px 0;font-size:12px}.health span{color:var(--muted)}
+.error{color:#ffb8ab!important}.ok{color:var(--accent)!important}.muted{color:var(--muted)}.empty{padding:45px 12px;color:var(--muted);text-align:center;border:1px dashed var(--line);border-radius:12px}
+.footer{margin-top:25px;border-top:1px solid var(--line);padding-top:20px;color:var(--muted);font-size:12px}
+@media(max-width:680px){.stats{grid-template-columns:repeat(2,1fr)}.wrap{padding:20px 14px}.filters{display:grid;grid-template-columns:1fr 1fr}.filters input{grid-column:1/3;width:100%}.filters select{width:100%;max-width:none}.stat{padding:13px}.card{padding:15px}}
+</style>
+</head>
+<body><div class="wrap">
+<header><div><div class="pretitle">FREE AI OFFER MONITOR</div><h1 class="hero">🔎 무료 AI 쌀먹 레이더</h1><p class="lead">무료 토큰 · API 크레딧 · 체험판 · 프로모션을 한눈에</p></div><span id="runflag" class="pill">실행 결과 확인 중</span></header>
+<section class="stats">
+<div class="stat"><b id="total">0</b><span>수집된 제보</span></div>
+<div class="stat"><b id="recent">0</b><span>24시간 이내 새 제보</span></div>
+<div class="stat"><b id="high">0</b><span>우선 확인(10점 이상)</span></div>
+<div class="stat"><b id="healthy">0/0</b><span>정상 동작한 수집 작업</span></div>
+</section>
+<div class="section-header"><h2>📰 수집된 혜택 정보</h2><span class="meta" id="lastcheck"></span></div>
+<div class="filters">
+<input id="query" type="search" placeholder="검색: 크레딧, 코덱스, Gemini..." aria-label="제보 검색">
+<select id="src" aria-label="정보 출처"><option value="">전체 출처</option></select>
+<select id="order" aria-label="정렬"><option value="newest">최신순</option><option value="score">점수순</option></select>
+</div>
+<div id="results"></div>
+<details class="details"><summary>🛠 수집 상태와 실패 내역 보기</summary><p class="meta">일부 사이트는 로봇 접근을 차단하거나 목록 구조가 바뀔 수 있습니다. 차단을 우회하지 않습니다.</p><div id="health"></div></details>
+<p class="footer">⚠️ 자동 수집된 제보는 실제 이용 가능하다는 보증이 아닙니다. 등록 시점, 지역 제한, 신규 가입 조건, 결제카드 요구, 크레딧 만료일, 상업적 사용 가능 여부를 공식 안내에서 확인하세요. 계정 남용·약관 위반 정보는 사용하지 마세요. <a href="results.csv" download>CSV 파일 받기</a></p>
+</div>
+<script id="embedded" type="application/json">__INLINE_DATA__</script>
+<script>
+'use strict';
+const data = JSON.parse(document.getElementById('embedded').textContent);
+const all = data.items || [];
+const $$ = id => document.getElementById(id);
+const collator = new Intl.Collator('ko');
+const today = Date.now();
+const fDate = s => s ? new Date(s).toLocaleString('ko-KR',{timeZone:'Asia/Seoul',month:'short',day:'numeric',hour:'2-digit',minute:'2-digit'}) : '날짜 정보 없음';
+const failed = data.health.length > 0 && data.health.every(x => x.status !== '성공');
+$$('runflag').textContent = data.demo ? 'DEMO · 가상 자료' : failed ? '수집 실패 · 기존 기록 표시' : '실제 수집 결과';
+if(data.demo) $$('runflag').classList.add('demo');
+$$('total').textContent = all.length;
+$$('recent').textContent = all.filter(x => (today - Date.parse(x.first_seen)) < 86400000).length;
+$$('high').textContent = all.filter(x => x.score >= 10).length;
+$$('healthy').textContent = data.health.filter(x => x.status === '성공').length + '/' + data.health.length;
+$$('lastcheck').textContent = '최종 검사 ' + fDate(data.checked_at) + ' (한국시간)';
+[...new Set(all.map(x=>x.source))].sort(collator.compare).forEach(x=>{const o=document.createElement('option');o.value=x;o.textContent=x;$$('src').append(o)});
+function el(tag,klass,text){const n=document.createElement(tag);if(klass)n.className=klass;if(text!==undefined)n.textContent=text;return n}
+function render(){
+ const q=$$('query').value.trim().toLowerCase(),src=$$('src').value, order=$$('order').value;
+ let items=all.filter(x=>(!src||x.source===src)&&(!q||[x.title,x.snippet,x.tags.join(' '),x.source].join(' ').toLowerCase().includes(q)));
+ items.sort((a,b)=>order==='score' ? b.score-a.score || (b.published_at||b.first_seen).localeCompare(a.published_at||a.first_seen) : (b.published_at||b.first_seen).localeCompare(a.published_at||a.first_seen));
+ const target=$$('results');target.replaceChildren();
+ if(!items.length){target.append(el('div','empty','조건에 맞는 수집 결과가 없습니다. 수집 상태를 확인하세요.'));return}
+ items.forEach(x=>{
+  const c=el('article','card');const top=el('div','cardtop');
+  top.append(el('span','source',x.source),el('span','score',x.score+'점 · 자동 관련도'));
+  c.append(top,el('h3','',x.title));
+  const when=x.published_at ? ('게시 '+fDate(x.published_at)) : '게시 시간 미확인';
+  c.append(el('div','meta',when+' · 최초 발견 '+fDate(x.first_seen)));
+  if(x.snippet)c.append(el('p','',x.snippet.slice(0,180)));
+  const tags=el('div','tags');x.tags.forEach(t=>tags.append(el('span','tag',t)));c.append(tags);
+  c.append(el('div','verify',x.verification === 'official_page_text_only' ? '공식 무료 안내 문구 확인 '+fDate(x.verified_at)+' · API 호출·지급 미검증' : x.credibility));
+  const link=el('a','open','원문 확인 →');link.href=x.url;link.target='_blank';link.rel='noopener noreferrer';c.append(link);
+  target.append(c);
+ });
+}
+$$('query').addEventListener('input',render);
+$$('src').addEventListener('change',render);
+$$('order').addEventListener('change',render);
+render();
+(data.health||[]).forEach(h=>{const wrap=el('div','health');const left=el('div','',h.source);if(h.detail)left.append(el('div','muted',h.detail));wrap.append(left,el('span',h.status==='성공'?'ok':'error',h.status+' ('+h.count+'건)'));$$('health').append(wrap)});
+</script>
+</body></html>
