@@ -38,6 +38,7 @@ input{flex:1;min-width:170px}select{max-width:210px}.card{background:var(--panel
 <div class="stat"><b id="healthy">0/0</b><span>정상 동작한 수집 작업</span></div>
 </section>
 <div class="section-header"><h2>📰 수집된 혜택 정보</h2><span class="meta" id="lastcheck"></span></div>
+<p class="meta">커뮤니티 제보: <a href="https://gall.dcinside.com/mgallery/board/lists/?id=ai_utilize" target="_blank" rel="noopener noreferrer">AI 활용 갤러리 바로가기 ↗</a> · 최근 3페이지의 제목에서 무료 혜택 관련 글을 찾습니다.</p>
 <div class="filters">
 <input id="query" type="search" placeholder="검색: 크레딧, 코덱스, Gemini..." aria-label="제보 검색">
 <select id="src" aria-label="정보 출처"><option value="">전체 출처</option></select>
@@ -64,14 +65,19 @@ $$('recent').textContent = all.filter(x => (today - Date.parse(x.first_seen)) < 
 $$('high').textContent = all.filter(x => x.score >= 10).length;
 $$('healthy').textContent = data.health.filter(x => x.status === '성공').length + '/' + data.health.length;
 $$('lastcheck').textContent = '최종 검사 ' + fDate(data.checked_at) + ' (한국시간)';
-[...new Set(all.map(x=>x.source))].sort(collator.compare).forEach(x=>{const o=document.createElement('option');o.value=x;o.textContent=x;$$('src').append(o)});
+[...new Set([...all.map(x=>x.source),...(data.health||[]).map(x=>x.source)])].sort(collator.compare).forEach(x=>{const o=document.createElement('option');o.value=x;o.textContent=x;$$('src').append(o)});
 function el(tag,klass,text){const n=document.createElement(tag);if(klass)n.className=klass;if(text!==undefined)n.textContent=text;return n}
 function render(){
  const q=$$('query').value.trim().toLowerCase(),src=$$('src').value, order=$$('order').value;
  let items=all.filter(x=>(!src||x.source===src)&&(!q||[x.title,x.snippet,x.tags.join(' '),x.source].join(' ').toLowerCase().includes(q)));
  items.sort((a,b)=>order==='score' ? b.score-a.score || (b.published_at||b.first_seen).localeCompare(a.published_at||a.first_seen) : (b.published_at||b.first_seen).localeCompare(a.published_at||a.first_seen));
  const target=$$('results');target.replaceChildren();
- if(!items.length){target.append(el('div','empty','조건에 맞는 수집 결과가 없습니다. 수집 상태를 확인하세요.'));return}
+ if(!items.length){
+  const jobs=(data.health||[]).filter(x=>x.source===src);
+  const count=jobs.filter(x=>x.status==='성공').reduce((sum,x)=>sum+x.count,0);
+  const message=src==='AI 활용 갤러리' ? (jobs.some(x=>x.status==='성공') ? 'AI 활용 갤러리 게시글 '+count+'건을 읽었습니다. 현재 검색·무료 혜택 조건에 맞는 제보가 없습니다.' : 'AI 활용 갤러리 수집 결과가 없습니다. 아래 수집 상태에서 실패 내역을 확인하세요.') : '조건에 맞는 수집 결과가 없습니다. 수집 상태를 확인하세요.';
+  target.append(el('div','empty',message));return
+ }
  items.forEach(x=>{
   const c=el('article','card');const top=el('div','cardtop');
   top.append(el('span','source',x.source),el('span','score',x.score+'점 · 자동 관련도'));

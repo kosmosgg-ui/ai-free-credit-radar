@@ -9,7 +9,7 @@
       {"name":"공식 · Cloudflare", "title":"Cloudflare Workers AI 무료 API 할당량 안내", "url":"https://developers.cloudflare.com/workers-ai/platform/pricing/", "required_terms":["10,000 Neurons per day at no charge"]},
       {"name":"공식 · OpenRouter", "title":"OpenRouter AI API free 모델 공식 안내", "url":"https://openrouter.ai/docs/guides/routing/model-variants/free", "required_terms":["access free versions of models", "access to models without cost"]}
     ],
-    "dc_ai_gallery": {"enabled": true, "pages": 1},
+    "dc_ai_gallery": {"enabled": true, "pages": 3},
     "google_news_ko": {
       "enabled": true,
       "queries": ["AI 무료 크레딧 API", "AI API 무료 프로모션", "인공지능 무료 토큰 지원", "AI 도구 무료 체험 이벤트"]
