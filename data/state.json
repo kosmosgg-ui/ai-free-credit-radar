@@ -1,6 +1,129 @@
 {
   "initialized": true,
   "items": {
+    "f39203010c03f8183604": {
+      "id": "f39203010c03f8183604",
+      "source": "AI 활용 갤러리",
+      "title": "ais 크레딧 다른 구글 계정으로 옮기기 성공",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=159508&list_num=100&page=1",
+      "published_at": "2026-10-30T08:27:58Z",
+      "snippet": "",
+      "first_seen": "2026-10-30T08:39:17Z",
+      "last_seen": "2026-10-30T08:39:17Z",
+      "score": 7,
+      "tags": [
+        "크레딧·혜택"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "1c55385ccf42b7125e6d": {
+      "id": "1c55385ccf42b7125e6d",
+      "source": "AI 활용 갤러리",
+      "title": "oai api 크레딧 다들 어따씀?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=159431&list_num=100&page=2",
+      "published_at": "2026-10-30T07:46:50Z",
+      "snippet": "",
+      "first_seen": "2026-10-30T08:39:17Z",
+      "last_seen": "2026-10-30T08:39:17Z",
+      "score": 8,
+      "tags": [
+        "API·토큰",
+        "크레딧·혜택"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "ce8ed2547ff9bce73c3c": {
+      "id": "ce8ed2547ff9bce73c3c",
+      "source": "Google News · 해외",
+      "title": "AI Santa Video: How to Make One Free (Message, Cam, Call) - Fello AI",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tTkd2WkE2M2JpVG1jYVU1UUhuVkFaTUxtTFloVENDUkhqaE0wZW5nS1hYZUpmTW5oRHdEZkpkVE95S29QVVFETlV1SQ?oc=5",
+      "published_at": "2026-10-30T07:07:45Z",
+      "snippet": "AI Santa Video: How to Make One Free (Message, Cam, Call) Fello AI",
+      "first_seen": "2026-10-30T08:39:17Z",
+      "last_seen": "2026-10-30T08:39:17Z",
+      "score": 6,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "뉴스 검색 결과 · 공식 확인 필요"
+    },
+    "48fb67584d6fbd99c20d": {
+      "id": "48fb67584d6fbd99c20d",
+      "source": "AI 활용 갤러리",
+      "title": "리셋 기다리며 벌벌 떨어야하나 했는데 크레딧이 아직 남았구나",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=159337&list_num=100&page=2",
+      "published_at": "2026-10-30T06:41:43Z",
+      "snippet": "",
+      "first_seen": "2026-10-30T08:39:17Z",
+      "last_seen": "2026-10-30T08:39:17Z",
+      "score": 7,
+      "tags": [
+        "크레딧·혜택"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "1cc69ecb27ba53e2adaf": {
+      "id": "1cc69ecb27ba53e2adaf",
+      "source": "AI 활용 갤러리",
+      "title": "클로드 맥스 API 크레딧은 7일 뒤에 주는거지?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=159306&list_num=100&page=3",
+      "published_at": "2026-10-30T06:14:39Z",
+      "snippet": "",
+      "first_seen": "2026-10-30T08:39:17Z",
+      "last_seen": "2026-10-30T08:39:17Z",
+      "score": 8,
+      "tags": [
+        "API·토큰",
+        "크레딧·혜택"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "2ba45fe1dc8d259de2c1": {
+      "id": "2ba45fe1dc8d259de2c1",
+      "source": "AI 활용 갤러리",
+      "title": "리셋 이벤트 하면 뭐하노 한도가 0%인데 스벌",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=159304&list_num=100&page=3",
+      "published_at": "2026-10-30T06:14:31Z",
+      "snippet": "",
+      "first_seen": "2026-10-30T08:39:17Z",
+      "last_seen": "2026-10-30T08:39:17Z",
+      "score": 5,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "6b0d1fd5b9529ba2a94c": {
+      "id": "6b0d1fd5b9529ba2a94c",
+      "source": "AI 활용 갤러리",
+      "title": "티모 2배이벤트 언제부터 해준다거임?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=159294&list_num=100&page=3",
+      "published_at": "2026-10-30T06:06:43Z",
+      "snippet": "",
+      "first_seen": "2026-10-30T08:39:17Z",
+      "last_seen": "2026-10-30T08:39:17Z",
+      "score": 5,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "416dd63079552f95f34a": {
+      "id": "416dd63079552f95f34a",
+      "source": "Google News · 한국",
+      "title": "최대 500달러(약 67만원) API 크레딧…적격 구독자 신청 가능 - 토큰포스트",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iSm9UVnQ5UXZvOFQ5UFEyWjgwaEZsTWZhcXl4M250cFBEbFlKVXc3RnpKbXp2ck1iOFA4OEZlSE5lSUFMOXEyX3BjXzZEM05hamFaX2Z30gFWQVVfeXFMT2JKb1RWdDlRdm84VDlQUTJaODBoRmxNZmFxeXgzbnRwUERsWUpVdzdGekptenZyTWI4UDg4RmVITmVJQUw5cTJfcGNfNkQzTmFqYVpfZnc?oc=5",
+      "published_at": "2026-10-30T02:00:53Z",
+      "snippet": "최대 500달러(약 67만원) API 크레딧…적격 구독자 신청 가능 토큰포스트",
+      "first_seen": "2026-10-30T08:39:17Z",
+      "last_seen": "2026-10-30T08:39:17Z",
+      "score": 7,
+      "tags": [
+        "API·토큰",
+        "크레딧·혜택"
+      ],
+      "credibility": "뉴스 검색 결과 · 공식 확인 필요"
+    },
     "777f7937076127b7909a": {
       "id": "777f7937076127b7909a",
       "source": "AI 활용 갤러리",
@@ -15,6 +138,36 @@
         "무료정보"
       ],
       "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "0d4ca8ae52014103c2d4": {
+      "id": "0d4ca8ae52014103c2d4",
+      "source": "Google News · 한국",
+      "title": "KT, AI 플랫폼 ‘토큰팩토리’ 출범 기념 … AI 모델 7종 이용료 30% 할인 - 워크투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8waUtoSS0wVWprNEd5SE1XbEpZOTd2d1JjakRhelFFY0V3UzdQZEx5OXNUQjFwckNZQ1I5N2tLVjlyMFZ1RmExUFR1d2xCTUlRQnJfaE5tdlJsRlY3bjVsOWtYeUk0bWJTZHF0Xw?oc=5",
+      "published_at": "2026-10-30T01:52:00Z",
+      "snippet": "KT, AI 플랫폼 ‘토큰팩토리’ 출범 기념 … AI 모델 7종 이용료 30% 할인 워크투데이",
+      "first_seen": "2026-10-30T08:39:17Z",
+      "last_seen": "2026-10-30T08:39:17Z",
+      "score": 5,
+      "tags": [
+        "API·토큰"
+      ],
+      "credibility": "뉴스 검색 결과 · 공식 확인 필요"
+    },
+    "24d1cb4a7576135350c8": {
+      "id": "24d1cb4a7576135350c8",
+      "source": "Google News · 해외",
+      "title": "Is Google Gemini Free? Google's Free Plan Explained (2026) - Fello AI",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iREpNUDN0cWl4OUk2RWJuZHU1OUp5RVlQcXhjdmVISUtlb3NwZldETExEZnc5cHJJUm9BOGpxNmFHNjZvckFhVFdJZw?oc=5",
+      "published_at": "2026-10-30T01:43:02Z",
+      "snippet": "Is Google Gemini Free? Google's Free Plan Explained (2026) Fello AI",
+      "first_seen": "2026-10-27T11:33:54Z",
+      "last_seen": "2026-10-30T08:39:17Z",
+      "score": 6,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "뉴스 검색 결과 · 공식 확인 필요"
     },
     "da2ae15fa95704a4eede": {
       "id": "da2ae15fa95704a4eede",
@@ -31,6 +184,21 @@
         "크레딧·혜택"
       ],
       "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "4bea13daff339fd5877e": {
+      "id": "4bea13daff339fd5877e",
+      "source": "Google News · 한국",
+      "title": "KT, ‘토큰팩토리’ 출시 기념 AI 모델 7종 이용료 30% 할인…글로벌 AI 허브로 육성 - 소셜밸류",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ycjE4dThQSDJzTjZoTDUySFFxUEFJaFI4WUVITk5IcnM1azR4Zzg2UlZzcHQxcUdUU0x4UTVPVHhmb1NpM0lWdXM5cWd4RmNVdHFfdnh4c0gxN1h2UzU5MUdrVdIBbEFVX3lxTE1JdXhYY2E4eXNyN1BxaTJXVEc3X1ZZWWVWQlo4M0J0a2hUeXpTeWlZS3d1M3MyS2RCSGpGNFU0TTJhYzlkVExjeEF6VnlIRVVQVWlwR2plMC1sTmFzTXZaSFotNHZUd05yVHVweA?oc=5",
+      "published_at": "2026-10-30T01:10:37Z",
+      "snippet": "KT, ‘토큰팩토리’ 출시 기념 AI 모델 7종 이용료 30% 할인…글로벌 AI 허브로 육성 소셜밸류",
+      "first_seen": "2026-10-30T08:39:17Z",
+      "last_seen": "2026-10-30T08:39:17Z",
+      "score": 5,
+      "tags": [
+        "API·토큰"
+      ],
+      "credibility": "뉴스 검색 결과 · 공식 확인 필요"
     },
     "2f9297e3485f074a71ca": {
       "id": "2f9297e3485f074a71ca",
@@ -68,10 +236,10 @@
       "source": "Google News · 해외",
       "title": "OpenAI’s subscription API credits have separate eligibility and expiry rules - OpenTools",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU3I2dWx2RHk2b0YyM1JsTEFHbThka3MtNUdiZ2FTU3g1cWpOdEYyM1htUWNRNFFldkdualJKT0k0NW9HME9TQ042QWRDNnBac0owVU5HMzc2dHNUS09DYlV0cFlKVUJzNEtpMUF3SlhMYU5tNHMwTXBVazByTFNLZjFvQnE3U3dZckJsZw?oc=5",
-      "published_at": "2026-10-29T20:51:54Z",
+      "published_at": "2026-10-29T20:56:20Z",
       "snippet": "OpenAI’s subscription API credits have separate eligibility and expiry rules OpenTools",
       "first_seen": "2026-10-29T21:49:41Z",
-      "last_seen": "2026-10-30T01:57:54Z",
+      "last_seen": "2026-10-30T08:39:17Z",
       "score": 7,
       "tags": [
         "API·토큰",
@@ -124,21 +292,6 @@
       ],
       "credibility": "커뮤니티 제보 · 검증 필요"
     },
-    "24d1cb4a7576135350c8": {
-      "id": "24d1cb4a7576135350c8",
-      "source": "Google News · 해외",
-      "title": "Is Google Gemini Free? Google's Free Plan Explained (2026) - Fello AI",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iREpNUDN0cWl4OUk2RWJuZHU1OUp5RVlQcXhjdmVISUtlb3NwZldETExEZnc5cHJJUm9BOGpxNmFHNjZvckFhVFdJZw?oc=5",
-      "published_at": "2026-10-29T18:49:11Z",
-      "snippet": "Is Google Gemini Free? Google's Free Plan Explained (2026) Fello AI",
-      "first_seen": "2026-10-27T11:33:54Z",
-      "last_seen": "2026-10-30T01:57:54Z",
-      "score": 6,
-      "tags": [
-        "무료정보"
-      ],
-      "credibility": "뉴스 검색 결과 · 공식 확인 필요"
-    },
     "c3b1379d06789f82e030": {
       "id": "c3b1379d06789f82e030",
       "source": "AI 활용 갤러리",
@@ -162,7 +315,7 @@
       "published_at": "2026-10-29T18:08:01Z",
       "snippet": "그래놀라, 맥용 무료 받아쓰기 출시…위스퍼는 회의록 추가 토큰포스트",
       "first_seen": "2026-10-29T21:49:41Z",
-      "last_seen": "2026-10-30T01:57:54Z",
+      "last_seen": "2026-10-30T08:39:17Z",
       "score": 6,
       "tags": [
         "API·토큰"
@@ -283,7 +436,7 @@
       "published_at": "2026-10-29T16:52:41Z",
       "snippet": "챗GPT 프로·비즈니스 구독자에 API 크레딧 제공…월 최대 500달러 AI 매터스",
       "first_seen": "2026-10-29T21:49:41Z",
-      "last_seen": "2026-10-30T01:57:54Z",
+      "last_seen": "2026-10-30T08:39:17Z",
       "score": 7,
       "tags": [
         "API·토큰",
@@ -451,7 +604,7 @@
       "published_at": "2026-10-29T08:39:17Z",
       "snippet": "필리핀 TESDA에 오른 구글 무료 AI 교사과정 토큰포스트",
       "first_seen": "2026-10-29T09:58:00Z",
-      "last_seen": "2026-10-30T01:57:54Z",
+      "last_seen": "2026-10-30T08:39:17Z",
       "score": 6,
       "tags": [
         "API·토큰"
@@ -466,7 +619,7 @@
       "published_at": "2026-10-29T08:38:22Z",
       "snippet": "20곳 협력한 앤스로픽, 과학 연구 크레딧 지원 확대 토큰포스트",
       "first_seen": "2026-10-29T09:58:00Z",
-      "last_seen": "2026-10-30T01:57:54Z",
+      "last_seen": "2026-10-30T08:39:17Z",
       "score": 7,
       "tags": [
         "API·토큰",
@@ -482,7 +635,7 @@
       "published_at": "2026-10-29T08:25:00Z",
       "snippet": "OpenAI Gives Pro and Business Subscribers Free API Credits Worth Up to $500 a Month BigGo Finance",
       "first_seen": "2026-10-29T16:56:03Z",
-      "last_seen": "2026-10-30T01:57:54Z",
+      "last_seen": "2026-10-30T08:39:17Z",
       "score": 14,
       "tags": [
         "API·토큰",
@@ -528,7 +681,7 @@
       "published_at": "2026-10-29T08:21:24Z",
       "snippet": "Is OpenAI Giving Away Free Money? Claim Up to $500 Monthly OpenAI API Credits Now 36Kr",
       "first_seen": "2026-10-29T09:58:00Z",
-      "last_seen": "2026-10-30T01:57:54Z",
+      "last_seen": "2026-10-30T08:39:17Z",
       "score": 10,
       "tags": [
         "API·토큰",
@@ -605,7 +758,7 @@
       "published_at": "2026-10-29T07:48:42Z",
       "snippet": "OpenAI announces up to $500 a month in API credits for ChatGPT Pro and Business Pasquale Pillitteri",
       "first_seen": "2026-10-29T09:58:00Z",
-      "last_seen": "2026-10-30T01:57:54Z",
+      "last_seen": "2026-10-30T08:39:17Z",
       "score": 7,
       "tags": [
         "API·토큰",
@@ -786,7 +939,7 @@
       "published_at": "2026-10-29T02:01:53Z",
       "snippet": "OpenAI Offers Up to $500 in Monthly API Credits for ChatGPT Pro and Business Users KuCoin",
       "first_seen": "2026-10-29T02:53:52Z",
-      "last_seen": "2026-10-30T01:57:54Z",
+      "last_seen": "2026-10-30T08:39:17Z",
       "score": 7,
       "tags": [
         "API·토큰",
@@ -910,7 +1063,7 @@
       "published_at": "2026-10-29T00:43:57Z",
       "snippet": "[AI 활용팁] AI 음성 내레이션 무료로 만들기 AI 매터스",
       "first_seen": "2026-10-29T02:53:52Z",
-      "last_seen": "2026-10-30T01:57:54Z",
+      "last_seen": "2026-10-30T08:39:17Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -956,7 +1109,7 @@
       "published_at": "2026-10-28T23:30:47Z",
       "snippet": "OpenAI offers up to $500 in monthly API credits to ChatGPT Pro and Business subscribers Crypto Briefing",
       "first_seen": "2026-10-29T16:56:03Z",
-      "last_seen": "2026-10-30T01:57:54Z",
+      "last_seen": "2026-10-30T08:39:17Z",
       "score": 7,
       "tags": [
         "API·토큰",
@@ -1019,7 +1172,7 @@
       "published_at": "2026-10-28T23:15:39Z",
       "snippet": "Google AI Studio: What It Is, What Is Free, How to Use It Fello AI",
       "first_seen": "2026-10-27T11:33:54Z",
-      "last_seen": "2026-10-30T01:57:54Z",
+      "last_seen": "2026-10-30T08:39:17Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -1426,7 +1579,7 @@
       "published_at": "2026-10-28T08:15:59Z",
       "snippet": "스트라이프, 기업 핸들로 무료 즉시 이체 기능 공개 토큰포스트",
       "first_seen": "2026-10-28T14:01:49Z",
-      "last_seen": "2026-10-30T01:57:54Z",
+      "last_seen": "2026-10-30T08:39:17Z",
       "score": 6,
       "tags": [
         "API·토큰"
@@ -1441,7 +1594,7 @@
       "published_at": "2026-10-28T07:00:00Z",
       "snippet": "Best Free AI Models in 2026: Which Ones Cost Nothing and Where to Use Them Fello AI",
       "first_seen": "2026-10-27T11:33:54Z",
-      "last_seen": "2026-10-30T01:57:54Z",
+      "last_seen": "2026-10-30T08:39:17Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -1456,7 +1609,7 @@
       "published_at": "2026-10-28T07:00:00Z",
       "snippet": "DeepSeek Pricing 2026: Complete Guide to API Costs, Free Tier and Plans Fello AI",
       "first_seen": "2026-10-27T12:06:58Z",
-      "last_seen": "2026-10-30T01:57:54Z",
+      "last_seen": "2026-10-30T08:39:17Z",
       "score": 11,
       "tags": [
         "API·토큰",
@@ -1472,7 +1625,7 @@
       "published_at": "2026-10-28T07:00:00Z",
       "snippet": "Kimi Pricing 2026: Plans, API Costs & Free Tier Fello AI",
       "first_seen": "2026-10-27T11:33:54Z",
-      "last_seen": "2026-10-30T01:57:54Z",
+      "last_seen": "2026-10-30T08:39:17Z",
       "score": 11,
       "tags": [
         "API·토큰",
@@ -1729,8 +1882,8 @@
       "published_at": null,
       "snippet": "d access to certain models check_circle Free input & output tokens check_circle Google AI Studio access check_circle Content used to improve our products * Get started for Free Paid For production applications that require hig",
       "first_seen": "2026-10-27T11:36:40Z",
-      "last_seen": "2026-10-30T01:57:54Z",
-      "verified_at": "2026-10-30T01:57:28Z",
+      "last_seen": "2026-10-30T08:39:17Z",
+      "verified_at": "2026-10-30T08:38:52Z",
       "verification": "official_page_text_only",
       "score": 9,
       "tags": [
@@ -1746,8 +1899,8 @@
       "published_at": null,
       "snippet": "ocation allows anyone to use a total of 10,000 Neurons per day at no charge . To use more than 10,000 Neurons per day, you need to sign up for the Workers Paid plan . On Workers Paid, you will be charged at $0.011 / 1,000 Neurons for a",
       "first_seen": "2026-10-27T11:36:40Z",
-      "last_seen": "2026-10-30T01:57:54Z",
-      "verified_at": "2026-10-30T01:57:29Z",
+      "last_seen": "2026-10-30T08:39:17Z",
+      "verified_at": "2026-10-30T08:38:54Z",
       "verification": "official_page_text_only",
       "score": 13,
       "tags": [
@@ -1763,8 +1916,8 @@
       "published_at": null,
       "snippet": "py page The :free variant allows you to access free versions of models on OpenRouter. ​ Usage Append :free to the ID of a model that has a free entry. :free is a catalog variant , so the free version appears as its own entry in th",
       "first_seen": "2026-10-27T11:36:40Z",
-      "last_seen": "2026-10-30T01:57:54Z",
-      "verified_at": "2026-10-30T01:57:31Z",
+      "last_seen": "2026-10-30T08:39:17Z",
+      "verified_at": "2026-10-30T08:38:55Z",
       "verification": "official_page_text_only",
       "score": 6,
       "tags": [
@@ -1885,7 +2038,7 @@
       "published_at": "2026-10-26T12:07:41Z",
       "snippet": "AI Girlfriend 리뷰: AI 비주얼 도구 및 무료 체험 정보 小豆島町",
       "first_seen": "2026-10-28T19:34:26Z",
-      "last_seen": "2026-10-30T01:57:54Z",
+      "last_seen": "2026-10-30T08:39:17Z",
       "score": 11,
       "tags": [
         "체험·무료등급"
@@ -1915,7 +2068,7 @@
       "published_at": "2026-10-26T08:19:59Z",
       "snippet": "오픈AI, 할인으로 앤트로픽 고객 공략…앤트로픽은 신모델로 사용량 선두 탈환 AI타임스",
       "first_seen": "2026-10-27T11:33:54Z",
-      "last_seen": "2026-10-30T01:57:54Z",
+      "last_seen": "2026-10-30T08:39:17Z",
       "score": 5,
       "tags": [
         "무료정보"
@@ -1960,7 +2113,7 @@
       "published_at": "2026-10-26T07:00:00Z",
       "snippet": "Unlock Free Access to 80+ Powerful AI Models from NVIDIA Today VARIndia",
       "first_seen": "2026-10-29T16:56:03Z",
-      "last_seen": "2026-10-30T01:57:54Z",
+      "last_seen": "2026-10-30T08:39:17Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -1975,7 +2128,7 @@
       "published_at": "2026-10-25T14:46:38Z",
       "snippet": "Claude Code $20 vs Codex vs Gemini CLI: Free Wins [2026] https://tech-insider.org/",
       "first_seen": "2026-10-27T12:06:58Z",
-      "last_seen": "2026-10-29T09:58:00Z",
+      "last_seen": "2026-10-30T08:39:17Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -1990,7 +2143,7 @@
       "published_at": "2026-10-24T21:18:39Z",
       "snippet": "‍‍‍HentAI AI 공식 무료 체험 플랫폼 및 도구 목록 小豆島町",
       "first_seen": "2026-10-28T19:34:26Z",
-      "last_seen": "2026-10-30T01:57:54Z",
+      "last_seen": "2026-10-30T08:39:17Z",
       "score": 11,
       "tags": [
         "체험·무료등급"
@@ -2005,7 +2158,7 @@
       "published_at": "2026-10-24T07:00:00Z",
       "snippet": "Best Free AI for Coding in 2026: DeepSeek V4 Pro, Qwen 3.6 & Kimi K2.6 Tested Fello AI",
       "first_seen": "2026-10-27T11:33:54Z",
-      "last_seen": "2026-10-30T01:57:54Z",
+      "last_seen": "2026-10-30T08:39:17Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -2035,7 +2188,7 @@
       "published_at": "2026-10-24T01:07:00Z",
       "snippet": "메타 AI 책임자 “개인용 AI 뮤즈 무료로 제공하겠다” 이코노미블록",
       "first_seen": "2026-10-29T21:49:41Z",
-      "last_seen": "2026-10-29T21:49:41Z",
+      "last_seen": "2026-10-30T08:39:17Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -2050,7 +2203,7 @@
       "published_at": "2026-10-23T12:12:49Z",
       "snippet": "Five Free AI Coding Tools to Use Right Now Brief IA",
       "first_seen": "2026-10-28T14:01:49Z",
-      "last_seen": "2026-10-30T01:57:54Z",
+      "last_seen": "2026-10-30T08:39:17Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -2065,7 +2218,7 @@
       "published_at": "2026-10-23T12:09:49Z",
       "snippet": "5 Free AI Coding Agents You Should Try in 2026 KDnuggets",
       "first_seen": "2026-10-27T11:33:54Z",
-      "last_seen": "2026-10-30T01:57:54Z",
+      "last_seen": "2026-10-30T08:39:17Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -2185,7 +2338,7 @@
       "published_at": "2026-10-22T11:13:54Z",
       "snippet": "Hi HN, I made a simple single-page tool that computes portfolios return / performance (TWR and XIRR), gross and net of fees and tax. It requires logging all transactions. It's client-side, with no accounts, and data lives in the browser localStorage. It started as a personal tool . I wanted a way to understand what was the return of my portfolio and of a tenanted rental property (XIRR). The experimental part is an import: you upload a broker's trade notice PDF and an LLM proposes one ledger row,",
       "first_seen": "2026-10-27T11:33:54Z",
-      "last_seen": "2026-10-30T01:57:54Z",
+      "last_seen": "2026-10-30T08:39:17Z",
       "score": 6,
       "tags": [
         "API·토큰"
@@ -2260,7 +2413,7 @@
       "published_at": "2026-10-22T06:03:55Z",
       "snippet": "If you use AI to create images and videos, you most likely use Higgsfield or similar subscription tools. I did too. But I had 3 main issues with it: The markup is super high. So if the model provider charges x, higgsfield charges a markup of + 50% on top. Credits I did not use would expire every month....EVEN THOUGH I PAID FOR IT And I had to switch between Claude and Higgsfield constantly...copy pasting prompts and all So I built a free open source repo of creative production skills for AI agen",
       "first_seen": "2026-10-27T11:33:54Z",
-      "last_seen": "2026-10-30T01:57:54Z",
+      "last_seen": "2026-10-30T08:39:17Z",
       "score": 10,
       "tags": [
         "크레딧·혜택"
@@ -2381,7 +2534,7 @@
       "published_at": "2026-10-17T06:29:17Z",
       "snippet": "I built 3DValley, a collection of free tools for generating and editing 3D models. You can turn images into 3D models using AI, retexture existing models, remesh geometry, and use other 3D utilities. Some tools run entirely in your browser, while the more computationally expensive AI models run on shared GPUs with free daily credits.",
       "first_seen": "2026-10-27T11:33:54Z",
-      "last_seen": "2026-10-30T01:57:54Z",
+      "last_seen": "2026-10-30T08:39:17Z",
       "score": 10,
       "tags": [
         "크레딧·혜택"
@@ -2404,5 +2557,5 @@
     "e9dd116d204f4f156f47",
     "b2b14a3b61e080573afa"
   ],
-  "last_checked": "2026-10-30T01:57:54Z"
+  "last_checked": "2026-10-30T08:39:17Z"
 }
