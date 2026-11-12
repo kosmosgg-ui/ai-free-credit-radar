@@ -1,6 +1,81 @@
 {
   "initialized": true,
   "items": {
+    "d740d3e3d7a8406b9ada": {
+      "id": "d740d3e3d7a8406b9ada",
+      "source": "AI 활용 갤러리",
+      "title": "짚 플러스 슬슬 쌀먹 끝나가는데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=180701&list_num=100&page=3",
+      "published_at": "2026-11-12T09:09:18Z",
+      "snippet": "",
+      "first_seen": "2026-11-12T11:06:43Z",
+      "last_seen": "2026-11-12T11:06:43Z",
+      "score": 10,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "b21d12b7910ac78f8b55": {
+      "id": "b21d12b7910ac78f8b55",
+      "source": "Google News · 해외",
+      "title": "UAE Business: Zoom’s new AI Launchpad offers credits to build next-gen apps - Gulf Daily News (Bahrain)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45bTl6aGd0cU9qZWw5LTF1enVYelhIOGhEQUxwXzd0bW1qLXE5WHNlSTBtODE1OWNuYmZvRHVjZk5SdmRWSEVEVXh6OGlVWkFXY1RV?oc=5",
+      "published_at": "2026-11-12T09:06:36Z",
+      "snippet": "UAE Business: Zoom’s new AI Launchpad offers credits to build next-gen apps Gulf Daily News (Bahrain)",
+      "first_seen": "2026-11-12T11:06:43Z",
+      "last_seen": "2026-11-12T11:06:43Z",
+      "score": 7,
+      "tags": [
+        "크레딧·혜택"
+      ],
+      "credibility": "뉴스 검색 결과 · 공식 확인 필요"
+    },
+    "57f761890965b1fea21e": {
+      "id": "57f761890965b1fea21e",
+      "source": "AI 활용 갤러리",
+      "title": "엑사원 2.5 쌀먹충 환장파티임 ?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=180685&list_num=100&page=3",
+      "published_at": "2026-11-12T08:55:15Z",
+      "snippet": "",
+      "first_seen": "2026-11-12T11:06:43Z",
+      "last_seen": "2026-11-12T11:06:43Z",
+      "score": 10,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "0cfe53855c9bc331ae53": {
+      "id": "0cfe53855c9bc331ae53",
+      "source": "AI 활용 갤러리",
+      "title": "미안하다 쌀먹한다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=180677&list_num=100&page=3",
+      "published_at": "2026-11-12T08:50:03Z",
+      "snippet": "",
+      "first_seen": "2026-11-12T11:06:43Z",
+      "last_seen": "2026-11-12T11:06:43Z",
+      "score": 10,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "1db2b18a3fab2d379c4f": {
+      "id": "1db2b18a3fab2d379c4f",
+      "source": "Google News · 한국",
+      "title": "다나와, AI 활용 커뮤니티 ‘AI다나와’ 오픈… 무료 온라인 강의 개최 - 미디어픽",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xM2xhT0wzYzdaWGxyVVp6b012eG84Umk1RzNFMDhLYjZQbXlsQUlqb05icExsaXJvVzZMYTRZaGtCb2RWSEJadFBLUWthQlNTTG5UbUZMaFBGRF9adTRpanBtNTVvQ243eDB3?oc=5",
+      "published_at": "2026-11-12T02:38:25Z",
+      "snippet": "다나와, AI 활용 커뮤니티 ‘AI다나와’ 오픈… 무료 온라인 강의 개최 미디어픽",
+      "first_seen": "2026-11-12T11:06:43Z",
+      "last_seen": "2026-11-12T11:06:43Z",
+      "score": 6,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "뉴스 검색 결과 · 공식 확인 필요"
+    },
     "f8ab60866ca0d7855417": {
       "id": "f8ab60866ca0d7855417",
       "source": "AI 활용 갤러리",
@@ -99,7 +174,7 @@
       "published_at": "2026-11-11T22:04:11Z",
       "snippet": "Best Free AI Models in 2026: Which Ones Cost Nothing and Where to Use Them Fello AI",
       "first_seen": "2026-11-04T18:53:39Z",
-      "last_seen": "2026-11-12T02:58:50Z",
+      "last_seen": "2026-11-12T11:06:43Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -219,7 +294,7 @@
       "published_at": "2026-11-11T15:33:06Z",
       "snippet": "Hey HN, I’m Eric and I want to share an OSS project that I’ve been building in my free time. Yogurt is a free, MIT licensed desktop app that uses on-device AI models to transcribe, summarize, and chat with your meetings. Here's a quick demo video: https://www.youtube.com/watch?v=BFfbXAwRq98 Similar to Granola, Yogurt runs in the background and does not join your calls. But unlike Granola, Yogurt is open-source, free to use, and private. Your meeting transcripts, call recordings, and summaries ne",
       "first_seen": "2026-11-11T21:57:19Z",
-      "last_seen": "2026-11-12T02:58:50Z",
+      "last_seen": "2026-11-12T11:06:43Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -234,7 +309,7 @@
       "published_at": "2026-11-11T15:09:06Z",
       "snippet": "Is SayIntentions free, and what are the free AI ATC options for MSFS 2024? MSFS Addons",
       "first_seen": "2026-11-10T11:11:01Z",
-      "last_seen": "2026-11-12T02:58:50Z",
+      "last_seen": "2026-11-12T11:06:43Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -491,7 +566,7 @@
       "published_at": "2026-11-11T00:29:45Z",
       "snippet": "hi HN! I built Mimzie, an agent neutral AI workspace inspired by the Claude Suite (Docs, Sheets, Slides) and Cowork. It's a free desktop app that runs ChatGPT, Claude, Gemini, and Grok in their native CLI harnesses. Think T3 Code or Conductor but for knowledge work. It's basically a GUI for managing knowledge work agents in various form factors. One of those form factors is Bots, akin to Grok Bot or Dots. The original idea for mimzie was simple: I pay for Claude and ChatGPT, and a lot of my day-",
       "first_seen": "2026-11-11T06:17:21Z",
-      "last_seen": "2026-11-12T02:58:50Z",
+      "last_seen": "2026-11-12T11:06:43Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -542,6 +617,21 @@
         "무료정보"
       ],
       "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "c8795c2ceac7b3c2403f": {
+      "id": "c8795c2ceac7b3c2403f",
+      "source": "Google News · 해외",
+      "title": "Zoom's new AI Launchpad offers up to $150K in complimentary credits to build next-gen apps - wahanariau.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN002VGQ1VmxfM3NXMElCbnJkREhJRGpUYUxoY0ZDakZUYUxoU3N4X19ZM2JqNWpxdm4xeTJUVGpFMGFsR3MwY0RoWXlKSjA0aXJGV01JNWkzVlgtSloxQkpKVGUwS1h5VnVwMzh0bWNCUDIzNkl4b3JMVFhobzhOeTB1UXA4YmQweWg3VmQwRjNpbUc3RzRKajgzOF8?oc=5",
+      "published_at": "2026-11-10T17:11:19Z",
+      "snippet": "Zoom's new AI Launchpad offers up to $150K in complimentary credits to build next-gen apps wahanariau.com",
+      "first_seen": "2026-11-10T18:41:34Z",
+      "last_seen": "2026-11-12T11:06:43Z",
+      "score": 7,
+      "tags": [
+        "크레딧·혜택"
+      ],
+      "credibility": "뉴스 검색 결과 · 공식 확인 필요"
     },
     "a4f9713785b8c848c734": {
       "id": "a4f9713785b8c848c734",
@@ -603,21 +693,6 @@
       ],
       "credibility": "커뮤니티 제보 · 검증 필요"
     },
-    "c8795c2ceac7b3c2403f": {
-      "id": "c8795c2ceac7b3c2403f",
-      "source": "Google News · 해외",
-      "title": "Zoom's new AI Launchpad offers up to $150K in complimentary credits to build next-gen apps - Quantisnow",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN002VGQ1VmxfM3NXMElCbnJkREhJRGpUYUxoY0ZDakZUYUxoU3N4X19ZM2JqNWpxdm4xeTJUVGpFMGFsR3MwY0RoWXlKSjA0aXJGV01JNWkzVlgtSloxQkpKVGUwS1h5VnVwMzh0bWNCUDIzNkl4b3JMVFhobzhOeTB1UXA4YmQweWg3VmQwRjNpbUc3RzRKajgzOF8?oc=5",
-      "published_at": "2026-11-10T14:11:14Z",
-      "snippet": "Zoom's new AI Launchpad offers up to $150K in complimentary credits to build next-gen apps Quantisnow",
-      "first_seen": "2026-11-10T18:41:34Z",
-      "last_seen": "2026-11-11T14:44:00Z",
-      "score": 7,
-      "tags": [
-        "크레딧·혜택"
-      ],
-      "credibility": "뉴스 검색 결과 · 공식 확인 필요"
-    },
     "8ba50e7d58c2e622b03f": {
       "id": "8ba50e7d58c2e622b03f",
       "source": "Google News · 해외",
@@ -626,7 +701,7 @@
       "published_at": "2026-11-10T14:07:00Z",
       "snippet": "AI startups can get up to $150,000 in Zoom AI-service credits without giving up equity Stock Titan",
       "first_seen": "2026-11-10T18:41:34Z",
-      "last_seen": "2026-11-12T02:58:50Z",
+      "last_seen": "2026-11-12T11:06:43Z",
       "score": 7,
       "tags": [
         "크레딧·혜택"
@@ -656,7 +731,7 @@
       "published_at": "2026-11-10T12:56:17Z",
       "snippet": "Hey there HN! Simstim is a local-first and privacy-focused call transcription app for Mac. It records your mic and system audio (no bot joining calls) and transcribes everything on your machine. No account, no telemetry, audio never leaves your machine and all your data is in plain .md files (Obsidian native btw). Your AI subscription, free forever, MIT. I built it because I used to use Granola, and it was super annoying that I couldn't export my transcripts in some convenient manner. I needed a",
       "first_seen": "2026-11-10T18:41:34Z",
-      "last_seen": "2026-11-12T02:58:50Z",
+      "last_seen": "2026-11-12T11:06:43Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -806,7 +881,7 @@
       "published_at": "2026-11-10T08:00:00Z",
       "snippet": "Claude Code Pricing 2026: Plans, Costs & Free Tier Guide Fello AI",
       "first_seen": "2026-11-05T21:59:17Z",
-      "last_seen": "2026-11-12T02:58:50Z",
+      "last_seen": "2026-11-12T11:06:43Z",
       "score": 11,
       "tags": [
         "체험·무료등급"
@@ -896,7 +971,7 @@
       "published_at": "2026-11-09T19:00:06Z",
       "snippet": "LG 엑사원 무료 API, 직접 써 보니 브런치",
       "first_seen": "2026-11-10T11:11:01Z",
-      "last_seen": "2026-11-12T02:58:50Z",
+      "last_seen": "2026-11-12T11:06:43Z",
       "score": 13,
       "tags": [
         "API·토큰"
@@ -1010,6 +1085,21 @@
       ],
       "credibility": "커뮤니티 제보 · 검증 필요"
     },
+    "9db1fc905f833018ffd8": {
+      "id": "9db1fc905f833018ffd8",
+      "source": "Google News · 해외",
+      "title": "Best Free AI for Coding in 2026: DeepSeek V4 Pro, Qwen 3.6 & Kimi K2.6 Tested - Fello AI",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OQ0wxTkJuMzZjN2toSklxNXFNVmJGVjZWUGxRc2NpWUU5U3FTaUhpNmhhT0o0Ujk3WEVxdGRnWDJ5QVNjaGRIVlM0OHNPbWlJOUJ5MW02dw?oc=5",
+      "published_at": "2026-11-09T08:00:00Z",
+      "snippet": "Best Free AI for Coding in 2026: DeepSeek V4 Pro, Qwen 3.6 & Kimi K2.6 Tested Fello AI",
+      "first_seen": "2026-11-05T15:49:57Z",
+      "last_seen": "2026-11-12T11:06:43Z",
+      "score": 6,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "뉴스 검색 결과 · 공식 확인 필요"
+    },
     "54d6fe7ba9379308f5c3": {
       "id": "54d6fe7ba9379308f5c3",
       "source": "Google News · 한국",
@@ -1048,7 +1138,7 @@
       "published_at": "2026-11-09T02:24:03Z",
       "snippet": "LG AI Research, K-EXAONE 2.5 모델 API 무료 이용 개방 Unite.AI",
       "first_seen": "2026-11-09T09:48:09Z",
-      "last_seen": "2026-11-12T02:58:50Z",
+      "last_seen": "2026-11-12T11:06:43Z",
       "score": 6,
       "tags": [
         "API·토큰"
@@ -1093,7 +1183,7 @@
       "published_at": "2026-11-09T01:34:16Z",
       "snippet": "LG AI연구원, 'K-엑사원 2.5' 무료 개방…8주 만에 성능 70% 향상 비욘드포스트",
       "first_seen": "2026-11-09T01:59:13Z",
-      "last_seen": "2026-11-12T02:58:50Z",
+      "last_seen": "2026-11-12T11:06:43Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -1228,7 +1318,7 @@
       "published_at": "2026-11-08T15:31:19Z",
       "snippet": "Hi HN! :) I’ve been working as a fullstack freelancer for over 4 years now. I always wanted some kind of IDE where I could take designs, turn them into code, and not be restricted to using auto layout and all that stuff. Back at the beginning of 2020, before LLMs and AI were a thing, I was sitting with a friend of mine trying to figure out how to take a design, even one built with absolute values, and turn it into a working web app. I tried and failed :( Today I’m launching Velork! It’s meant to",
       "first_seen": "2026-11-08T18:31:00Z",
-      "last_seen": "2026-11-12T02:58:50Z",
+      "last_seen": "2026-11-12T11:06:43Z",
       "score": 6,
       "tags": [
         "API·토큰"
@@ -2205,7 +2295,7 @@
       "published_at": "2026-11-06T08:00:00Z",
       "snippet": "Is Grok AI Free in 2026? Free Tier Limits and What You Get Fello AI",
       "first_seen": "2026-11-07T09:15:35Z",
-      "last_seen": "2026-11-12T02:58:50Z",
+      "last_seen": "2026-11-12T11:06:43Z",
       "score": 11,
       "tags": [
         "체험·무료등급"
@@ -2220,7 +2310,7 @@
       "published_at": "2026-11-06T08:00:00Z",
       "snippet": "6 Free Cloud GPUs: Models, Limits, Access Requirements AIMultiple",
       "first_seen": "2026-11-07T23:58:47Z",
-      "last_seen": "2026-11-12T02:58:50Z",
+      "last_seen": "2026-11-12T11:06:43Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -2948,21 +3038,6 @@
       ],
       "credibility": "뉴스 검색 결과 · 공식 확인 필요"
     },
-    "9db1fc905f833018ffd8": {
-      "id": "9db1fc905f833018ffd8",
-      "source": "Google News · 해외",
-      "title": "Best Free AI for Coding in 2026: DeepSeek V4 Pro, Qwen 3.6 & Kimi K2.6 Tested - Fello AI",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OQ0wxTkJuMzZjN2toSklxNXFNVmJGVjZWUGxRc2NpWUU5U3FTaUhpNmhhT0o0Ujk3WEVxdGRnWDJ5QVNjaGRIVlM0OHNPbWlJOUJ5MW02dw?oc=5",
-      "published_at": "2026-11-04T08:00:00Z",
-      "snippet": "Best Free AI for Coding in 2026: DeepSeek V4 Pro, Qwen 3.6 & Kimi K2.6 Tested Fello AI",
-      "first_seen": "2026-11-05T15:49:57Z",
-      "last_seen": "2026-11-11T06:17:21Z",
-      "score": 6,
-      "tags": [
-        "무료정보"
-      ],
-      "credibility": "뉴스 검색 결과 · 공식 확인 필요"
-    },
     "dfe26b80b75dbe7144d4": {
       "id": "dfe26b80b75dbe7144d4",
       "source": "Google News · 해외",
@@ -3107,8 +3182,8 @@
       "published_at": null,
       "snippet": "odels * {% icon name=\"check_circle\" /%} Free input & output tokens * {% icon name=\"check_circle\" /%} Google AI Studio access * {% icon name=\"check_circle\" /%} Content used to improve our products{% sup %}[*](/docs/terms){% /su",
       "first_seen": "2026-11-03T17:51:11Z",
-      "last_seen": "2026-11-12T02:58:50Z",
-      "verified_at": "2026-11-12T02:58:25Z",
+      "last_seen": "2026-11-12T11:06:43Z",
+      "verified_at": "2026-11-12T11:06:16Z",
       "verification": "official_page_text_only",
       "score": 9,
       "tags": [
@@ -3124,8 +3199,8 @@
       "published_at": null,
       "snippet": "ocation allows anyone to use a total of 10,000 Neurons per day at no charge . To use more than 10,000 Neurons per day, you need to sign up for the Workers Paid plan . On Workers Paid, you will be charged at $0.011 / 1,000 Neurons for a",
       "first_seen": "2026-11-03T17:51:11Z",
-      "last_seen": "2026-11-12T02:58:50Z",
-      "verified_at": "2026-11-12T02:58:26Z",
+      "last_seen": "2026-11-12T11:06:43Z",
+      "verified_at": "2026-11-12T11:06:17Z",
       "verification": "official_page_text_only",
       "score": 13,
       "tags": [
@@ -3141,8 +3216,8 @@
       "published_at": null,
       "snippet": "py page The :free variant allows you to access free versions of models on OpenRouter. ​ Usage Append :free to the ID of a model that has a free entry. :free is a catalog variant , so the free version appears as its own entry in th",
       "first_seen": "2026-11-03T17:51:11Z",
-      "last_seen": "2026-11-12T02:58:50Z",
-      "verified_at": "2026-11-12T02:58:27Z",
+      "last_seen": "2026-11-12T11:06:43Z",
+      "verified_at": "2026-11-12T11:06:18Z",
       "verification": "official_page_text_only",
       "score": 6,
       "tags": [
@@ -3535,7 +3610,7 @@
       "published_at": "2026-11-02T18:49:44Z",
       "snippet": "I'm Alvaro, one of the founders of Mago. With my co-founder Alex (creator of Warpfusion, open source video to video), we built an open source AI video studio specialized in long form content and large volumes of video. It's a desktop app that you can run for free on your own GPU, that uses a portable ComfyUI or can be plugged into an existing Comfy setup. It handles both hybrid production (video to video, AI VFX) and full AI (microdramas, AI series for social etc). Back when Alex was working on ",
       "first_seen": "2026-11-02T19:48:16Z",
-      "last_seen": "2026-11-12T02:58:50Z",
+      "last_seen": "2026-11-12T11:06:43Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -3691,83 +3766,8 @@
         "크레딧·혜택"
       ],
       "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "3f92b5ab37b7e37588b0": {
-      "id": "3f92b5ab37b7e37588b0",
-      "source": "AI 활용 갤러리",
-      "title": "클로드 클라우드 크레딧으로 뭘할수있음 ?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=164972&list_num=100&page=2",
-      "published_at": "2026-11-02T07:40:35Z",
-      "snippet": "",
-      "first_seen": "2026-11-02T09:29:57Z",
-      "last_seen": "2026-11-02T09:29:57Z",
-      "score": 8,
-      "tags": [
-        "크레딧·혜택"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "f7acad368702da158abb": {
-      "id": "f7acad368702da158abb",
-      "source": "AI 활용 갤러리",
-      "title": "okx 20불 쌀먹 클로드 gpt 따로따로임?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=164949&list_num=100&page=2",
-      "published_at": "2026-11-02T07:19:10Z",
-      "snippet": "",
-      "first_seen": "2026-11-02T09:29:57Z",
-      "last_seen": "2026-11-02T09:29:57Z",
-      "score": 11,
-      "tags": [
-        "무료정보"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "43d5f6fb538401e0e964": {
-      "id": "43d5f6fb538401e0e964",
-      "source": "AI 활용 갤러리",
-      "title": "AI로 혼자 만든 1인칭 석전 게임 데모 공개함 (무료·브라우저)",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=164923&list_num=100&page=2",
-      "published_at": "2026-11-02T07:02:05Z",
-      "snippet": "",
-      "first_seen": "2026-11-02T09:29:57Z",
-      "last_seen": "2026-11-02T09:29:57Z",
-      "score": 7,
-      "tags": [
-        "무료정보"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "a32e1727cabfac36477d": {
-      "id": "a32e1727cabfac36477d",
-      "source": "AI 활용 갤러리",
-      "title": "구글 콘솔 300달러 쌀먹 깡계로 할때 번호인증 뜨는데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=164916&list_num=100&page=2",
-      "published_at": "2026-11-02T06:57:56Z",
-      "snippet": "",
-      "first_seen": "2026-11-02T09:29:57Z",
-      "last_seen": "2026-11-02T09:29:57Z",
-      "score": 10,
-      "tags": [
-        "무료정보"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "82c9a36d3270a148a9bf": {
-      "id": "82c9a36d3270a148a9bf",
-      "source": "AI 활용 갤러리",
-      "title": "아니 아스트라 크레딧 써서 개빠른건가",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=164804&list_num=100&page=3",
-      "published_at": "2026-11-02T05:26:51Z",
-      "snippet": "",
-      "first_seen": "2026-11-02T09:29:57Z",
-      "last_seen": "2026-11-02T09:29:57Z",
-      "score": 7,
-      "tags": [
-        "크레딧·혜택"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
     }
   },
   "notified": [],
-  "last_checked": "2026-11-12T02:58:50Z"
+  "last_checked": "2026-11-12T11:06:43Z"
 }
