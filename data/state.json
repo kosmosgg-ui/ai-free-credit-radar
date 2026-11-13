@@ -1,6 +1,66 @@
 {
   "initialized": true,
   "items": {
+    "f8fbaf75ed646effb20f": {
+      "id": "f8fbaf75ed646effb20f",
+      "source": "AI 활용 갤러리",
+      "title": "그냥 쇼츠 쌀먹 도전했다가 개망하고 화가난친구인듯",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=183869&list_num=100&page=1",
+      "published_at": "2026-11-13T18:37:56Z",
+      "snippet": "",
+      "first_seen": "2026-11-13T21:41:32Z",
+      "last_seen": "2026-11-13T21:41:32Z",
+      "score": 10,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "96ecc31383c8cbf78584": {
+      "id": "96ecc31383c8cbf78584",
+      "source": "AI 활용 갤러리",
+      "title": "힉스필드는 우회결제 할인같은거 없나?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=183798&list_num=100&page=2",
+      "published_at": "2026-11-13T17:14:53Z",
+      "snippet": "",
+      "first_seen": "2026-11-13T21:41:32Z",
+      "last_seen": "2026-11-13T21:41:32Z",
+      "score": 5,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "4a4428abb2557a820a54": {
+      "id": "4a4428abb2557a820a54",
+      "source": "AI 활용 갤러리",
+      "title": "클로드 무료랑 유료차이가 얼마나나는지 아는사람",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=183770&list_num=100&page=2",
+      "published_at": "2026-11-13T16:38:27Z",
+      "snippet": "",
+      "first_seen": "2026-11-13T21:41:32Z",
+      "last_seen": "2026-11-13T21:41:32Z",
+      "score": 7,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "b46d7b61bba6743ac5b6": {
+      "id": "b46d7b61bba6743ac5b6",
+      "source": "AI 활용 갤러리",
+      "title": "지피티 무료버전은 광고 나오더리",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=183746&list_num=100&page=2",
+      "published_at": "2026-11-13T16:20:37Z",
+      "snippet": "",
+      "first_seen": "2026-11-13T21:41:32Z",
+      "last_seen": "2026-11-13T21:41:32Z",
+      "score": 6,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
     "aea9ff1f9a2386730451": {
       "id": "aea9ff1f9a2386730451",
       "source": "AI 활용 갤러리",
@@ -9,7 +69,7 @@
       "published_at": "2026-11-13T15:29:51Z",
       "snippet": "",
       "first_seen": "2026-11-13T15:42:10Z",
-      "last_seen": "2026-11-13T15:42:10Z",
+      "last_seen": "2026-11-13T21:41:32Z",
       "score": 10,
       "tags": [
         "무료정보"
@@ -25,6 +85,21 @@
       "snippet": "",
       "first_seen": "2026-11-13T15:42:10Z",
       "last_seen": "2026-11-13T15:42:10Z",
+      "score": 6,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "8215b2801b0f8b86db46": {
+      "id": "8215b2801b0f8b86db46",
+      "source": "AI 활용 갤러리",
+      "title": "meshy 1개월 무료",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=183639&list_num=100&page=3",
+      "published_at": "2026-11-13T15:13:36Z",
+      "snippet": "",
+      "first_seen": "2026-11-13T21:41:32Z",
+      "last_seen": "2026-11-13T21:41:32Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -730,7 +805,7 @@
       "published_at": "2026-11-11T15:33:06Z",
       "snippet": "Hey HN, I’m Eric and I want to share an OSS project that I’ve been building in my free time. Yogurt is a free, MIT licensed desktop app that uses on-device AI models to transcribe, summarize, and chat with your meetings. Here's a quick demo video: https://www.youtube.com/watch?v=BFfbXAwRq98 Similar to Granola, Yogurt runs in the background and does not join your calls. But unlike Granola, Yogurt is open-source, free to use, and private. Your meeting transcripts, call recordings, and summaries ne",
       "first_seen": "2026-11-11T21:57:19Z",
-      "last_seen": "2026-11-13T15:42:10Z",
+      "last_seen": "2026-11-13T21:41:32Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -1167,7 +1242,7 @@
       "published_at": "2026-11-10T12:56:17Z",
       "snippet": "Hey there HN! Simstim is a local-first and privacy-focused call transcription app for Mac. It records your mic and system audio (no bot joining calls) and transcribes everything on your machine. No account, no telemetry, audio never leaves your machine and all your data is in plain .md files (Obsidian native btw). Your AI subscription, free forever, MIT. I built it because I used to use Granola, and it was super annoying that I couldn't export my transcripts in some convenient manner. I needed a",
       "first_seen": "2026-11-10T18:41:34Z",
-      "last_seen": "2026-11-13T15:42:10Z",
+      "last_seen": "2026-11-13T21:41:32Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -1799,7 +1874,7 @@
       "published_at": "2026-11-08T15:31:19Z",
       "snippet": "Hi HN! :) I’ve been working as a fullstack freelancer for over 4 years now. I always wanted some kind of IDE where I could take designs, turn them into code, and not be restricted to using auto layout and all that stuff. Back at the beginning of 2020, before LLMs and AI were a thing, I was sitting with a friend of mine trying to figure out how to take a design, even one built with absolute values, and turn it into a working web app. I tried and failed :( Today I’m launching Velork! It’s meant to",
       "first_seen": "2026-11-08T18:31:00Z",
-      "last_seen": "2026-11-13T15:42:10Z",
+      "last_seen": "2026-11-13T21:41:32Z",
       "score": 6,
       "tags": [
         "API·토큰"
@@ -3663,8 +3738,8 @@
       "published_at": null,
       "snippet": "odels * {% icon name=\"check_circle\" /%} Free input & output tokens * {% icon name=\"check_circle\" /%} Google AI Studio access * {% icon name=\"check_circle\" /%} Content used to improve our products{% sup %}[*](/docs/terms){% /su",
       "first_seen": "2026-11-03T17:51:11Z",
-      "last_seen": "2026-11-13T15:42:10Z",
-      "verified_at": "2026-11-13T15:41:46Z",
+      "last_seen": "2026-11-13T21:41:32Z",
+      "verified_at": "2026-11-13T21:40:18Z",
       "verification": "official_page_text_only",
       "score": 9,
       "tags": [
@@ -3680,94 +3755,16 @@
       "published_at": null,
       "snippet": "ocation allows anyone to use a total of 10,000 Neurons per day at no charge . To use more than 10,000 Neurons per day, you need to sign up for the Workers Paid plan . On Workers Paid, you will be charged at $0.011 / 1,000 Neurons for a",
       "first_seen": "2026-11-03T17:51:11Z",
-      "last_seen": "2026-11-13T15:42:10Z",
-      "verified_at": "2026-11-13T15:41:47Z",
+      "last_seen": "2026-11-13T21:41:32Z",
+      "verified_at": "2026-11-13T21:40:19Z",
       "verification": "official_page_text_only",
       "score": 13,
       "tags": [
         "API·토큰"
       ],
       "credibility": "공식 도메인 게시물 · 조건 별도 확인"
-    },
-    "8801d3cb2ffcd6d2fe85": {
-      "id": "8801d3cb2ffcd6d2fe85",
-      "source": "공식 · OpenRouter",
-      "title": "OpenRouter AI API free 모델 공식 안내",
-      "url": "https://openrouter.ai/docs/guides/routing/model-variants/free",
-      "published_at": null,
-      "snippet": "py page The :free variant allows you to access free versions of models on OpenRouter. Usage Append :free to the ID of a model that has a free entry. :free is a catalog variant , so the free version appears as its own entry in the",
-      "first_seen": "2026-11-03T17:51:11Z",
-      "last_seen": "2026-11-13T15:42:10Z",
-      "verified_at": "2026-11-13T15:41:48Z",
-      "verification": "official_page_text_only",
-      "score": 6,
-      "tags": [
-        "API·토큰"
-      ],
-      "credibility": "공식 도메인 게시물 · 조건 별도 확인"
-    },
-    "fe0492a0504660499a64": {
-      "id": "fe0492a0504660499a64",
-      "source": "AI 활용 갤러리",
-      "title": "카카오 2개월 플러스 프로모션 무료로 받은 계정",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=167086&list_num=100&page=1",
-      "published_at": "2026-11-03T17:39:40Z",
-      "snippet": "",
-      "first_seen": "2026-11-03T17:51:11Z",
-      "last_seen": "2026-11-03T23:22:44Z",
-      "score": 10,
-      "tags": [
-        "크레딧·혜택"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "fe0c6fe94cb88eca6285": {
-      "id": "fe0c6fe94cb88eca6285",
-      "source": "AI 활용 갤러리",
-      "title": "오픈코드 고 하기 싫은데 딥시크 쌀먹이 없다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=167045&list_num=100&page=1",
-      "published_at": "2026-11-03T16:30:12Z",
-      "snippet": "",
-      "first_seen": "2026-11-03T17:51:11Z",
-      "last_seen": "2026-11-03T23:22:44Z",
-      "score": 10,
-      "tags": [
-        "무료정보"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "a88e861e327e7d81c70a": {
-      "id": "a88e861e327e7d81c70a",
-      "source": "Hacker News",
-      "title": "Anthropic's HackerOne bot lawyered me out of a bounty",
-      "url": "https://news.ycombinator.com/item?id=50353629",
-      "published_at": "2026-11-03T15:59:32Z",
-      "snippet": "I stumbled across a state-management and metering flaw in Claude Teams plan. Because of how it works I was able to effectively only pay the minimum required for a team and have infinite usage. Scaled up it would allow to have infinite inference on top frontier models for free. I wrote a clean analysis and reported it to Anthropic via their HackerOne program. Within an hour it was closed as \"Informative\" with a note stating that subscription bypasses and rate limiting issues are considered \"Platf",
-      "first_seen": "2026-11-03T17:51:11Z",
-      "last_seen": "2026-11-06T09:54:43Z",
-      "score": 6,
-      "tags": [
-        "API·토큰"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "332973745da483c0419b": {
-      "id": "332973745da483c0419b",
-      "source": "AI 활용 갤러리",
-      "title": "님들은 구독제에 딸려오는 api 크레딧 어디다쓰는중?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=166991&list_num=100&page=1",
-      "published_at": "2026-11-03T15:21:40Z",
-      "snippet": "",
-      "first_seen": "2026-11-03T17:51:11Z",
-      "last_seen": "2026-11-03T23:22:44Z",
-      "score": 8,
-      "tags": [
-        "API·토큰",
-        "크레딧·혜택"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
     }
   },
   "notified": [],
-  "last_checked": "2026-11-13T15:42:10Z"
+  "last_checked": "2026-11-13T21:41:32Z"
 }
