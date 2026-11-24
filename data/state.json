@@ -1,6 +1,113 @@
 {
   "initialized": true,
   "items": {
+    "12974ad10e3b5f92e275": {
+      "id": "12974ad10e3b5f92e275",
+      "source": "AI 활용 갤러리",
+      "title": "챗지피티, 올해 말 Sites 무료 지원 종료",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=202013&list_num=100&page=1",
+      "published_at": "2026-11-24T06:01:07Z",
+      "snippet": "",
+      "first_seen": "2026-11-24T06:25:54Z",
+      "last_seen": "2026-11-24T06:25:54Z",
+      "score": 6,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "5e5cf2d78c7a458444ab": {
+      "id": "5e5cf2d78c7a458444ab",
+      "source": "AI 활용 갤러리",
+      "title": "난 왜 클로드 듀엣은 주고 크레딧은 안주냐",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=201963&list_num=100&page=1",
+      "published_at": "2026-11-24T05:23:43Z",
+      "snippet": "",
+      "first_seen": "2026-11-24T06:25:54Z",
+      "last_seen": "2026-11-24T06:25:54Z",
+      "score": 8,
+      "tags": [
+        "크레딧·혜택"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "b7e00c133c36c6501ef5": {
+      "id": "b7e00c133c36c6501ef5",
+      "source": "AI 활용 갤러리",
+      "title": "크레딧으로 쓰는 솔은 api급 지능임?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=201944&list_num=100&page=1",
+      "published_at": "2026-11-24T05:06:39Z",
+      "snippet": "",
+      "first_seen": "2026-11-24T06:25:54Z",
+      "last_seen": "2026-11-24T06:25:54Z",
+      "score": 8,
+      "tags": [
+        "API·토큰",
+        "크레딧·혜택"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "660ceb1a5357808eb03b": {
+      "id": "660ceb1a5357808eb03b",
+      "source": "AI 활용 갤러리",
+      "title": "클로드 듀엣 한글화되고 주당 500달러어치 무료이용 이벤트하네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=201928&list_num=100&page=2",
+      "published_at": "2026-11-24T04:52:10Z",
+      "snippet": "",
+      "first_seen": "2026-11-24T06:25:54Z",
+      "last_seen": "2026-11-24T06:25:54Z",
+      "score": 9,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "ac2f1a18ee42e92aaa37": {
+      "id": "ac2f1a18ee42e92aaa37",
+      "source": "AI 활용 갤러리",
+      "title": "듀엣 크레딧은 뭐냐",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=201917&list_num=100&page=2",
+      "published_at": "2026-11-24T04:38:31Z",
+      "snippet": "",
+      "first_seen": "2026-11-24T06:25:54Z",
+      "last_seen": "2026-11-24T06:25:54Z",
+      "score": 7,
+      "tags": [
+        "크레딧·혜택"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "b84b62c769b18a4049c4": {
+      "id": "b84b62c769b18a4049c4",
+      "source": "AI 활용 갤러리",
+      "title": "듀엣크레딧 저거 연말까지만 주겠지?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=201889&list_num=100&page=2",
+      "published_at": "2026-11-24T04:03:38Z",
+      "snippet": "",
+      "first_seen": "2026-11-24T06:25:54Z",
+      "last_seen": "2026-11-24T06:25:54Z",
+      "score": 7,
+      "tags": [
+        "크레딧·혜택"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "de1b2f511a74de31013d": {
+      "id": "de1b2f511a74de31013d",
+      "source": "AI 활용 갤러리",
+      "title": "근데 카쫀쿠 api 크레딧 아직도 안주냐?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=201726&list_num=100&page=3",
+      "published_at": "2026-11-24T02:31:11Z",
+      "snippet": "",
+      "first_seen": "2026-11-24T06:25:54Z",
+      "last_seen": "2026-11-24T06:25:54Z",
+      "score": 8,
+      "tags": [
+        "API·토큰",
+        "크레딧·혜택"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
     "043a2598d4258e1548a8": {
       "id": "043a2598d4258e1548a8",
       "source": "AI 활용 갤러리",
@@ -61,21 +168,6 @@
       ],
       "credibility": "뉴스 검색 결과 · 공식 확인 필요"
     },
-    "24d1cb4a7576135350c8": {
-      "id": "24d1cb4a7576135350c8",
-      "source": "Google News · 해외",
-      "title": "Is Google Gemini Free? Google's Free Plan Explained (2026) - Fello AI",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iREpNUDN0cWl4OUk2RWJuZHU1OUp5RVlQcXhjdmVISUtlb3NwZldETExEZnc5cHJJUm9BOGpxNmFHNjZvckFhVFdJZw?oc=5",
-      "published_at": "2026-11-23T11:49:54Z",
-      "snippet": "Is Google Gemini Free? Google's Free Plan Explained (2026) Fello AI",
-      "first_seen": "2026-11-13T15:42:10Z",
-      "last_seen": "2026-11-23T22:38:51Z",
-      "score": 6,
-      "tags": [
-        "무료정보"
-      ],
-      "credibility": "뉴스 검색 결과 · 공식 확인 필요"
-    },
     "42b78d88ae436804faa4": {
       "id": "42b78d88ae436804faa4",
       "source": "Google News · 해외",
@@ -84,7 +176,7 @@
       "published_at": "2026-11-23T09:21:43Z",
       "snippet": "Google AI Studio: What It Is, What Is Free, How to Use It Fello AI",
       "first_seen": "2026-11-14T01:50:40Z",
-      "last_seen": "2026-11-23T22:38:51Z",
+      "last_seen": "2026-11-24T06:25:54Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -235,7 +327,7 @@
       "published_at": "2026-11-22T21:40:38Z",
       "snippet": "Thinking Machines Lab gives 32GB as the minimum RAM requirement for Inkling 2 Mini on Mac, but with the Q3 quant I felt it must be possible to get somewhere reasonable on my 24GB M2 MacBook Air. Llama.cpp wasn't cutting it even with patches, so I spent this week's Fable allowance (with a sprinkling of Astra) on this custom inference engine, and took the opportunity to add some optimisations and ergonomics for running on a memory-constrained laptop: - strictly one model loaded at a time, requests",
       "first_seen": "2026-11-23T01:59:05Z",
-      "last_seen": "2026-11-23T22:38:51Z",
+      "last_seen": "2026-11-24T06:25:54Z",
       "score": 6,
       "tags": [
         "API·토큰"
@@ -310,7 +402,7 @@
       "published_at": "2026-11-22T17:54:17Z",
       "snippet": "Best Free AI Models 2026: What's Free and Where to Use It Fello AI",
       "first_seen": "2026-11-16T00:23:53Z",
-      "last_seen": "2026-11-23T22:38:51Z",
+      "last_seen": "2026-11-24T06:25:54Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -520,10 +612,25 @@
       "published_at": "2026-11-22T13:02:25Z",
       "snippet": "Best Free Crypto APIs in 2026: Keyless Access & Free API Plans CoinGecko",
       "first_seen": "2026-11-14T08:58:17Z",
-      "last_seen": "2026-11-23T22:38:51Z",
+      "last_seen": "2026-11-24T06:25:54Z",
       "score": 13,
       "tags": [
         "API·토큰"
+      ],
+      "credibility": "뉴스 검색 결과 · 공식 확인 필요"
+    },
+    "24d1cb4a7576135350c8": {
+      "id": "24d1cb4a7576135350c8",
+      "source": "Google News · 해외",
+      "title": "Is Google Gemini Free? Google's Free Plan Explained (2026) - Fello AI",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iREpNUDN0cWl4OUk2RWJuZHU1OUp5RVlQcXhjdmVISUtlb3NwZldETExEZnc5cHJJUm9BOGpxNmFHNjZvckFhVFdJZw?oc=5",
+      "published_at": "2026-11-22T08:00:00Z",
+      "snippet": "Is Google Gemini Free? Google's Free Plan Explained (2026) Fello AI",
+      "first_seen": "2026-11-13T15:42:10Z",
+      "last_seen": "2026-11-24T06:25:54Z",
+      "score": 6,
+      "tags": [
+        "무료정보"
       ],
       "credibility": "뉴스 검색 결과 · 공식 확인 필요"
     },
@@ -655,7 +762,7 @@
       "published_at": "2026-11-21T18:24:23Z",
       "snippet": "Kiro vs Claude Code: $20 Plans, 1,000 Credits vs Tokens shattered.io",
       "first_seen": "2026-11-21T19:48:44Z",
-      "last_seen": "2026-11-23T22:38:51Z",
+      "last_seen": "2026-11-24T06:25:54Z",
       "score": 7,
       "tags": [
         "API·토큰",
@@ -912,7 +1019,7 @@
       "published_at": "2026-11-21T08:00:00Z",
       "snippet": "ChatGPT for Academic Researchers: Free Plus, How to Apply Fello AI",
       "first_seen": "2026-11-23T10:45:26Z",
-      "last_seen": "2026-11-23T22:38:51Z",
+      "last_seen": "2026-11-24T06:25:54Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -1182,7 +1289,7 @@
       "published_at": "2026-11-20T08:00:00Z",
       "snippet": "ChatGPT Credits: What They Cost and How They Work Fello AI",
       "first_seen": "2026-11-18T09:10:42Z",
-      "last_seen": "2026-11-23T22:38:51Z",
+      "last_seen": "2026-11-24T06:25:54Z",
       "score": 7,
       "tags": [
         "크레딧·혜택"
@@ -1288,7 +1395,7 @@
       "published_at": "2026-11-20T00:00:00Z",
       "snippet": "Token Fraud: How ChatPRD and Stripe Fight AI Trial Abuse explainx.ai",
       "first_seen": "2026-11-20T07:14:40Z",
-      "last_seen": "2026-11-23T22:38:51Z",
+      "last_seen": "2026-11-24T06:25:54Z",
       "score": 5,
       "tags": [
         "API·토큰",
@@ -1649,7 +1756,7 @@
       "published_at": "2026-11-18T22:24:26Z",
       "snippet": "Google Gemini의 개인 비서 기능 ‘Tasks’, 이제 무료로 제공 GeekNews",
       "first_seen": "2026-11-20T07:14:40Z",
-      "last_seen": "2026-11-23T22:38:51Z",
+      "last_seen": "2026-11-24T06:25:54Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -1739,7 +1846,7 @@
       "published_at": "2026-11-18T08:00:00Z",
       "snippet": "Qwen Pricing 2026: Qwen4-Max API Costs & Free App Fello AI",
       "first_seen": "2026-11-18T18:06:43Z",
-      "last_seen": "2026-11-23T22:38:51Z",
+      "last_seen": "2026-11-24T06:25:54Z",
       "score": 6,
       "tags": [
         "API·토큰"
@@ -1754,7 +1861,7 @@
       "published_at": "2026-11-18T08:00:00Z",
       "snippet": "Is Nano Banana Free? Limits, Free Pro Access and Watermarks Fello AI",
       "first_seen": "2026-11-20T07:14:40Z",
-      "last_seen": "2026-11-23T10:45:26Z",
+      "last_seen": "2026-11-24T06:25:54Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -1769,7 +1876,7 @@
       "published_at": "2026-11-18T08:00:00Z",
       "snippet": "AI Free Trials 2026: Every Pro Tier You Can Actually Test for Free Fello AI",
       "first_seen": "2026-11-20T22:49:18Z",
-      "last_seen": "2026-11-23T22:38:51Z",
+      "last_seen": "2026-11-24T06:25:54Z",
       "score": 8,
       "tags": [
         "체험·무료등급"
@@ -1830,7 +1937,7 @@
       "published_at": "2026-11-17T21:55:48Z",
       "snippet": "Gemini 4 Hydrogen: 무료 작업은 실제로 무엇에서 실행되는가 OrcaRouter",
       "first_seen": "2026-11-18T01:20:19Z",
-      "last_seen": "2026-11-23T22:38:51Z",
+      "last_seen": "2026-11-24T06:25:54Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -1845,7 +1952,7 @@
       "published_at": "2026-11-17T21:46:06Z",
       "snippet": "This is a web app that I built to introduce chess to my children, along with scratching a personal game analysis itch. I link to the games (free, ad free, tracker free, affiliate free, etc), though there is a full learning section as well that was my primary focus. I imagine many here already know the basics of chess. Of course I leveraged AI in all parts of this project -- and indeed the analysis section uses three separate neural networks to analyze play -- but never without full engagement an",
       "first_seen": "2026-11-18T01:20:19Z",
-      "last_seen": "2026-11-23T22:38:51Z",
+      "last_seen": "2026-11-24T06:25:54Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -1860,7 +1967,7 @@
       "published_at": "2026-11-17T21:01:02Z",
       "snippet": "Google, Gemini의 Tasks를 무료로 제공하고 통화·결제 기능 추가 Unite.AI",
       "first_seen": "2026-11-20T16:23:35Z",
-      "last_seen": "2026-11-23T22:38:51Z",
+      "last_seen": "2026-11-24T06:25:54Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -1875,7 +1982,7 @@
       "published_at": "2026-11-17T20:00:29Z",
       "snippet": "Like most, I was stoked on LLMs when they became available. Particularly on the earlier free tiers where the slightly questionable answers were offset by generous tokens. Now, I'm finding that having to use this tech is becoming much less fun. The constant corrections, the constant prompting for greater brevity, the grating certainty and sycophancy. Others probably are forgiving considering the net benefit. But for me it honestly now feels like a chore, which is reflected in how my frustration i",
       "first_seen": "2026-11-18T01:20:19Z",
-      "last_seen": "2026-11-23T22:38:51Z",
+      "last_seen": "2026-11-24T06:25:54Z",
       "score": 11,
       "tags": [
         "API·토큰",
@@ -1891,7 +1998,7 @@
       "published_at": "2026-11-17T19:00:24Z",
       "snippet": "Your ChatGPT plan quietly comes with API credits, and most people are letting them expire XDA",
       "first_seen": "2026-11-18T01:20:19Z",
-      "last_seen": "2026-11-23T22:38:51Z",
+      "last_seen": "2026-11-24T06:25:54Z",
       "score": 7,
       "tags": [
         "API·토큰",
@@ -2013,7 +2120,7 @@
       "published_at": "2026-11-17T08:04:10Z",
       "snippet": "웨인힐스브라이언트 AI 토큰 비용 부담 없앤다… 월 74억개 토큰 무료연동 소스코드 공개 서울신문",
       "first_seen": "2026-11-17T09:13:09Z",
-      "last_seen": "2026-11-23T22:38:51Z",
+      "last_seen": "2026-11-24T06:25:54Z",
       "score": 6,
       "tags": [
         "API·토큰"
@@ -2584,7 +2691,7 @@
       "published_at": "2026-11-14T17:48:35Z",
       "snippet": "YVD is an AI studio for creating videos, images, and music. Features include text-to-video, text-to-image, AI music generation, and PNG background removal. Built with Seedance and GPT image models. Free tier with 20 welcome credits + 10 daily credits.",
       "first_seen": "2026-11-14T20:43:15Z",
-      "last_seen": "2026-11-23T22:38:51Z",
+      "last_seen": "2026-11-24T06:25:54Z",
       "score": 12,
       "tags": [
         "크레딧·혜택",
@@ -2735,7 +2842,7 @@
       "published_at": "2026-11-14T10:40:41Z",
       "snippet": "Orty is an AI lead qualification that does 2 things: writes the email for you when you find a client , and helps you to find that client without a database or scraping the web . Honestly i built it because of a problem i had when i started working in the freelance industry , the problem wasn't finding people because you can find 1,000 people a day and send them an email using AI , but it was finding who is worth it without spending much time on that. It's pretty easy to explain how it works beca",
       "first_seen": "2026-11-14T15:50:14Z",
-      "last_seen": "2026-11-23T22:38:51Z",
+      "last_seen": "2026-11-24T06:25:54Z",
       "score": 6,
       "tags": [
         "API·토큰"
@@ -2750,8 +2857,8 @@
       "published_at": null,
       "snippet": "odels * {% icon name=\"check_circle\" /%} Free input & output tokens * {% icon name=\"check_circle\" /%} Google AI Studio access * {% icon name=\"check_circle\" /%} Content used to improve our products{% sup %}[*](/docs/terms){% /su",
       "first_seen": "2026-11-14T08:58:17Z",
-      "last_seen": "2026-11-23T22:38:51Z",
-      "verified_at": "2026-11-23T22:38:27Z",
+      "last_seen": "2026-11-24T06:25:54Z",
+      "verified_at": "2026-11-24T06:25:28Z",
       "verification": "official_page_text_only",
       "score": 9,
       "tags": [
@@ -2767,8 +2874,8 @@
       "published_at": null,
       "snippet": "ocation allows anyone to use a total of 10,000 Neurons per day at no charge . To use more than 10,000 Neurons per day, you need to sign up for the Workers Paid plan . On Workers Paid, you will be charged at $0.011 / 1,000 Neurons for a",
       "first_seen": "2026-11-14T08:58:17Z",
-      "last_seen": "2026-11-23T22:38:51Z",
-      "verified_at": "2026-11-23T22:38:28Z",
+      "last_seen": "2026-11-24T06:25:54Z",
+      "verified_at": "2026-11-24T06:25:29Z",
       "verification": "official_page_text_only",
       "score": 13,
       "tags": [
@@ -2891,8 +2998,8 @@
       "published_at": null,
       "snippet": "py page The :free variant allows you to access free versions of models on OpenRouter. Usage Append :free to the ID of a model that has a free entry. :free is a catalog variant , so the free version appears as its own entry in the",
       "first_seen": "2026-11-14T01:50:40Z",
-      "last_seen": "2026-11-23T22:38:51Z",
-      "verified_at": "2026-11-23T22:38:30Z",
+      "last_seen": "2026-11-24T06:25:54Z",
+      "verified_at": "2026-11-24T06:25:30Z",
       "verification": "official_page_text_only",
       "score": 6,
       "tags": [
@@ -2953,7 +3060,7 @@
       "published_at": "2026-11-13T23:50:03Z",
       "snippet": "I am the founder of Human Assisted Intelligence and I believe AI can be used to reduce polarization and improve the way people communicate and reach agreement. At https://mediationbench.com/ , there are many frontier LLMs tested, but it is difficult to keep up. I've been trying to get more free openrouter or huggingface credits. Azure for OpenAI and Anthropic have both provided token credits. (Thank You!) The research paper is there as well. There have been efforts to use LLMs to lie and play di",
       "first_seen": "2026-11-14T01:50:40Z",
-      "last_seen": "2026-11-23T22:38:51Z",
+      "last_seen": "2026-11-24T06:25:54Z",
       "score": 10,
       "tags": [
         "API·토큰",
@@ -3665,113 +3772,8 @@
         "무료정보"
       ],
       "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "29e96ec33af0263d2f55": {
-      "id": "29e96ec33af0263d2f55",
-      "source": "AI 활용 갤러리",
-      "title": "깃허브 코파일럿 쌀먹 다계정 정지나 밴 안먹음??",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=179935&list_num=100&page=2",
-      "published_at": "2026-11-12T01:17:27Z",
-      "snippet": "",
-      "first_seen": "2026-11-12T02:58:50Z",
-      "last_seen": "2026-11-12T02:58:50Z",
-      "score": 10,
-      "tags": [
-        "무료정보"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "9c4dad9c8036571571ec": {
-      "id": "9c4dad9c8036571571ec",
-      "source": "AI 활용 갤러리",
-      "title": "힉스필드 3일 무료 끝남? 왜 안보임??",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=179923&list_num=100&page=2",
-      "published_at": "2026-11-12T01:07:21Z",
-      "snippet": "",
-      "first_seen": "2026-11-12T02:58:50Z",
-      "last_seen": "2026-11-12T02:58:50Z",
-      "score": 6,
-      "tags": [
-        "무료정보"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "a2cf65391855fbb65c3a": {
-      "id": "a2cf65391855fbb65c3a",
-      "source": "AI 활용 갤러리",
-      "title": "리셋 크레딧 안 쓰고 클로드 지피티 리셋하는 꿀팁",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=179899&list_num=100&page=2",
-      "published_at": "2026-11-12T00:50:30Z",
-      "snippet": "",
-      "first_seen": "2026-11-12T02:58:50Z",
-      "last_seen": "2026-11-12T02:58:50Z",
-      "score": 8,
-      "tags": [
-        "크레딧·혜택"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "7fa40816010eaa9f918b": {
-      "id": "7fa40816010eaa9f918b",
-      "source": "AI 활용 갤러리",
-      "title": "존슨황 스파크 50%할인으로 사죄하라",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=179791&list_num=100&page=3",
-      "published_at": "2026-11-11T23:07:55Z",
-      "snippet": "",
-      "first_seen": "2026-11-12T02:58:50Z",
-      "last_seen": "2026-11-12T02:58:50Z",
-      "score": 5,
-      "tags": [
-        "무료정보"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "46687560f5d47252b3e4": {
-      "id": "46687560f5d47252b3e4",
-      "source": "AI 활용 갤러리",
-      "title": "클로드 오래된 무료 계정 방금 프로 결제해본 결과",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=179759&list_num=100&page=3",
-      "published_at": "2026-11-11T22:05:53Z",
-      "snippet": "",
-      "first_seen": "2026-11-12T02:58:50Z",
-      "last_seen": "2026-11-12T02:58:50Z",
-      "score": 7,
-      "tags": [
-        "무료정보"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "cd4a0b14c0598e3aafa1": {
-      "id": "cd4a0b14c0598e3aafa1",
-      "source": "AI 활용 갤러리",
-      "title": "쌀먹 이거뜨면 막힌건가 봄",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=179647&list_num=100&page=2",
-      "published_at": "2026-11-11T18:10:49Z",
-      "snippet": "",
-      "first_seen": "2026-11-11T21:57:19Z",
-      "last_seen": "2026-11-11T21:57:19Z",
-      "score": 10,
-      "tags": [
-        "무료정보"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "ea059e40027f24916f39": {
-      "id": "ea059e40027f24916f39",
-      "source": "AI 활용 갤러리",
-      "title": "섭섭하지만 쌀먹은 하구가라",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=179576&list_num=100&page=2",
-      "published_at": "2026-11-11T16:34:39Z",
-      "snippet": "",
-      "first_seen": "2026-11-11T21:57:19Z",
-      "last_seen": "2026-11-11T21:57:19Z",
-      "score": 10,
-      "tags": [
-        "무료정보"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
     }
   },
   "notified": [],
-  "last_checked": "2026-11-23T22:38:51Z"
+  "last_checked": "2026-11-24T06:25:54Z"
 }
