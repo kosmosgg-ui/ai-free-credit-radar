@@ -1,6 +1,66 @@
 {
   "initialized": true,
   "items": {
+    "949fca50dd7bae1453a1": {
+      "id": "949fca50dd7bae1453a1",
+      "source": "AI 활용 갤러리",
+      "title": "남의 노력을 누워서 쌀먹하고만 싶어…",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=204979&list_num=100&page=1",
+      "published_at": "2026-11-25T18:27:09Z",
+      "snippet": "",
+      "first_seen": "2026-11-25T22:32:16Z",
+      "last_seen": "2026-11-25T22:32:16Z",
+      "score": 10,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "7de93679f998fd32eb32": {
+      "id": "7de93679f998fd32eb32",
+      "source": "AI 활용 갤러리",
+      "title": "본인 ai 쌀먹력 ㅁㅌㅊ임???",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=204978&list_num=100&page=1",
+      "published_at": "2026-11-25T18:26:54Z",
+      "snippet": "",
+      "first_seen": "2026-11-25T22:32:16Z",
+      "last_seen": "2026-11-25T22:32:16Z",
+      "score": 11,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "f3c74372a01eef2326e7": {
+      "id": "f3c74372a01eef2326e7",
+      "source": "AI 활용 갤러리",
+      "title": "구글 무료 크래딧 300달러 쓰레기 됨?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=204953&list_num=100&page=2",
+      "published_at": "2026-11-25T17:57:52Z",
+      "snippet": "",
+      "first_seen": "2026-11-25T22:32:16Z",
+      "last_seen": "2026-11-25T22:32:16Z",
+      "score": 6,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "1e3a1c30e4fed44b0e2c": {
+      "id": "1e3a1c30e4fed44b0e2c",
+      "source": "AI 활용 갤러리",
+      "title": "얼마전에 75달러인가 70달러인가 크레딧주던 영상플랫폼 뭐더라",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=204772&list_num=100&page=3",
+      "published_at": "2026-11-25T15:15:20Z",
+      "snippet": "",
+      "first_seen": "2026-11-25T22:32:16Z",
+      "last_seen": "2026-11-25T22:32:16Z",
+      "score": 7,
+      "tags": [
+        "크레딧·혜택"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
     "f9f8e248920703289d7d": {
       "id": "f9f8e248920703289d7d",
       "source": "AI 활용 갤러리",
@@ -2403,7 +2463,7 @@
       "published_at": "2026-11-17T21:46:06Z",
       "snippet": "This is a web app that I built to introduce chess to my children, along with scratching a personal game analysis itch. I link to the games (free, ad free, tracker free, affiliate free, etc), though there is a full learning section as well that was my primary focus. I imagine many here already know the basics of chess. Of course I leveraged AI in all parts of this project -- and indeed the analysis section uses three separate neural networks to analyze play -- but never without full engagement an",
       "first_seen": "2026-11-18T01:20:19Z",
-      "last_seen": "2026-11-25T12:53:21Z",
+      "last_seen": "2026-11-25T22:32:16Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -2433,7 +2493,7 @@
       "published_at": "2026-11-17T20:00:29Z",
       "snippet": "Like most, I was stoked on LLMs when they became available. Particularly on the earlier free tiers where the slightly questionable answers were offset by generous tokens. Now, I'm finding that having to use this tech is becoming much less fun. The constant corrections, the constant prompting for greater brevity, the grating certainty and sycophancy. Others probably are forgiving considering the net benefit. But for me it honestly now feels like a chore, which is reflected in how my frustration i",
       "first_seen": "2026-11-18T01:20:19Z",
-      "last_seen": "2026-11-25T12:53:21Z",
+      "last_seen": "2026-11-25T22:32:16Z",
       "score": 11,
       "tags": [
         "API·토큰",
@@ -3126,7 +3186,7 @@
       "published_at": "2026-11-14T17:48:35Z",
       "snippet": "YVD is an AI studio for creating videos, images, and music. Features include text-to-video, text-to-image, AI music generation, and PNG background removal. Built with Seedance and GPT image models. Free tier with 20 welcome credits + 10 daily credits.",
       "first_seen": "2026-11-14T20:43:15Z",
-      "last_seen": "2026-11-25T12:53:21Z",
+      "last_seen": "2026-11-25T22:32:16Z",
       "score": 12,
       "tags": [
         "크레딧·혜택",
@@ -3277,7 +3337,7 @@
       "published_at": "2026-11-14T10:40:41Z",
       "snippet": "Orty is an AI lead qualification that does 2 things: writes the email for you when you find a client , and helps you to find that client without a database or scraping the web . Honestly i built it because of a problem i had when i started working in the freelance industry , the problem wasn't finding people because you can find 1,000 people a day and send them an email using AI , but it was finding who is worth it without spending much time on that. It's pretty easy to explain how it works beca",
       "first_seen": "2026-11-14T15:50:14Z",
-      "last_seen": "2026-11-25T12:53:21Z",
+      "last_seen": "2026-11-25T22:32:16Z",
       "score": 6,
       "tags": [
         "API·토큰"
@@ -3292,8 +3352,8 @@
       "published_at": null,
       "snippet": "odels * {% icon name=\"check_circle\" /%} Free input & output tokens * {% icon name=\"check_circle\" /%} Google AI Studio access * {% icon name=\"check_circle\" /%} Content used to improve our products{% sup %}[*](/docs/terms){% /su",
       "first_seen": "2026-11-14T08:58:17Z",
-      "last_seen": "2026-11-25T12:53:21Z",
-      "verified_at": "2026-11-25T12:52:56Z",
+      "last_seen": "2026-11-25T22:32:16Z",
+      "verified_at": "2026-11-25T22:31:19Z",
       "verification": "official_page_text_only",
       "score": 9,
       "tags": [
@@ -3309,8 +3369,8 @@
       "published_at": null,
       "snippet": "ocation allows anyone to use a total of 10,000 Neurons per day at no charge . To use more than 10,000 Neurons per day, you need to sign up for the Workers Paid plan . On Workers Paid, you will be charged at $0.011 / 1,000 Neurons for a",
       "first_seen": "2026-11-14T08:58:17Z",
-      "last_seen": "2026-11-25T12:53:21Z",
-      "verified_at": "2026-11-25T12:52:57Z",
+      "last_seen": "2026-11-25T22:32:16Z",
+      "verified_at": "2026-11-25T22:31:20Z",
       "verification": "official_page_text_only",
       "score": 13,
       "tags": [
@@ -3433,8 +3493,8 @@
       "published_at": null,
       "snippet": "py page The :free variant allows you to access free versions of models on OpenRouter. Usage Append :free to the ID of a model that has a free entry. :free is a catalog variant , so the free version appears as its own entry in the",
       "first_seen": "2026-11-14T01:50:40Z",
-      "last_seen": "2026-11-25T12:53:21Z",
-      "verified_at": "2026-11-25T12:52:59Z",
+      "last_seen": "2026-11-25T22:32:16Z",
+      "verified_at": "2026-11-25T22:31:21Z",
       "verification": "official_page_text_only",
       "score": 6,
       "tags": [
@@ -3495,7 +3555,7 @@
       "published_at": "2026-11-13T23:50:03Z",
       "snippet": "I am the founder of Human Assisted Intelligence and I believe AI can be used to reduce polarization and improve the way people communicate and reach agreement. At https://mediationbench.com/ , there are many frontier LLMs tested, but it is difficult to keep up. I've been trying to get more free openrouter or huggingface credits. Azure for OpenAI and Anthropic have both provided token credits. (Thank You!) The research paper is there as well. There have been efforts to use LLMs to lie and play di",
       "first_seen": "2026-11-14T01:50:40Z",
-      "last_seen": "2026-11-25T12:53:21Z",
+      "last_seen": "2026-11-25T22:32:16Z",
       "score": 10,
       "tags": [
         "API·토큰",
@@ -3712,68 +3772,8 @@
         "무료정보"
       ],
       "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "58db45ebe1e2f74bff7f": {
-      "id": "58db45ebe1e2f74bff7f",
-      "source": "AI 활용 갤러리",
-      "title": "쌀먹거리 발견해서 프로그램 만드는데 어렵네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=183475&list_num=100&page=3",
-      "published_at": "2026-11-13T13:35:15Z",
-      "snippet": "",
-      "first_seen": "2026-11-13T15:42:10Z",
-      "last_seen": "2026-11-13T15:42:10Z",
-      "score": 10,
-      "tags": [
-        "무료정보"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "53e48dba961c260448cf": {
-      "id": "53e48dba961c260448cf",
-      "source": "AI 활용 갤러리",
-      "title": "페이블 5.2는 공개/무료 이런거 존나집착함",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=183472&list_num=100&page=3",
-      "published_at": "2026-11-13T13:33:35Z",
-      "snippet": "",
-      "first_seen": "2026-11-13T15:42:10Z",
-      "last_seen": "2026-11-13T15:42:10Z",
-      "score": 6,
-      "tags": [
-        "무료정보"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "6cd7871a3886264f8297": {
-      "id": "6cd7871a3886264f8297",
-      "source": "Google News · 한국",
-      "title": "Google AI Studio에서 월간 Google Cloud 크레딧 이용 가능 - Mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQWE0M0lUVG5nQWxxQXg4YVQ2cVloR0ZHZVRLRFBZcFMxVlZ0bEJiRWV2R01udkdQTUpBU1FkNmFnc2g4Rlp3d0pGQlN2RWUydEYwaEJNX0I0UGhlSEV5a09uWFdYQ2JYdE9VUk9oV2wxa2JTYVRzTmNtSzlNN2praUkwSHBuZUtZOFdwaGwyZlAtNkk?oc=5",
-      "published_at": "2026-11-13T13:31:00Z",
-      "snippet": "Google AI Studio에서 월간 Google Cloud 크레딧 이용 가능 Mezha.net",
-      "first_seen": "2026-11-14T01:50:40Z",
-      "last_seen": "2026-11-20T07:14:40Z",
-      "score": 7,
-      "tags": [
-        "크레딧·혜택"
-      ],
-      "credibility": "뉴스 검색 결과 · 공식 확인 필요"
-    },
-    "9903accd6a55c8e40f61": {
-      "id": "9903accd6a55c8e40f61",
-      "source": "AI 활용 갤러리",
-      "title": "카본은 지금 반값할인중이라 평가하기 애매해",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=183424&list_num=100&page=3",
-      "published_at": "2026-11-13T13:21:14Z",
-      "snippet": "",
-      "first_seen": "2026-11-13T15:42:10Z",
-      "last_seen": "2026-11-13T15:42:10Z",
-      "score": 5,
-      "tags": [
-        "무료정보"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
     }
   },
   "notified": [],
-  "last_checked": "2026-11-25T12:53:21Z"
+  "last_checked": "2026-11-25T22:32:16Z"
 }
