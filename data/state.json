@@ -1,6 +1,171 @@
 {
   "initialized": true,
   "items": {
+    "f9f8e248920703289d7d": {
+      "id": "f9f8e248920703289d7d",
+      "source": "AI 활용 갤러리",
+      "title": "힉스 블프 할인해도 드리미나보다 별로임?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=204552&list_num=100&page=1",
+      "published_at": "2026-11-25T12:53:08Z",
+      "snippet": "",
+      "first_seen": "2026-11-25T12:53:21Z",
+      "last_seen": "2026-11-25T12:53:21Z",
+      "score": 5,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "e85417e89849d47ce55c": {
+      "id": "e85417e89849d47ce55c",
+      "source": "Google News · 한국",
+      "title": "IP당 미캐시 요청 분당 60회…비트코인 기록 AI서 무료 조회 - 토큰포스트",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwWU9uQ2hPS3BjM1p2V1hMR1FNa1NrTllRczAwY0FFOXdxTlVId3FEM3dWM082eXNOUzhDaWowRmp4ek9adUR5TlJ0MlFXWWZ20gFWQVVfeXFMTVlkcEE5a3l3ZWRTcmlDUnJtRFJQMkNubjQ3ek1WcHlGZVN6VFlsQVc3Q0dZV2loTkludnFJZW1taWRGMzdWcENiTm4tMldKLVV3aGFpYVE?oc=5",
+      "published_at": "2026-11-25T12:23:54Z",
+      "snippet": "IP당 미캐시 요청 분당 60회…비트코인 기록 AI서 무료 조회 토큰포스트",
+      "first_seen": "2026-11-25T12:53:21Z",
+      "last_seen": "2026-11-25T12:53:21Z",
+      "score": 6,
+      "tags": [
+        "API·토큰"
+      ],
+      "credibility": "뉴스 검색 결과 · 공식 확인 필요"
+    },
+    "5838ea4e6c94ff0771a1": {
+      "id": "5838ea4e6c94ff0771a1",
+      "source": "AI 활용 갤러리",
+      "title": "클로드 클라우드 크레딧 어케씀?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=204477&list_num=100&page=1",
+      "published_at": "2026-11-25T11:53:08Z",
+      "snippet": "",
+      "first_seen": "2026-11-25T12:53:21Z",
+      "last_seen": "2026-11-25T12:53:21Z",
+      "score": 8,
+      "tags": [
+        "크레딧·혜택"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "d888baaf23100979dc4a": {
+      "id": "d888baaf23100979dc4a",
+      "source": "AI 활용 갤러리",
+      "title": "왜 있는지 몰라도 급하게 빨아먹은 크레딧",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=204451&list_num=100&page=1",
+      "published_at": "2026-11-25T11:37:28Z",
+      "snippet": "",
+      "first_seen": "2026-11-25T12:53:21Z",
+      "last_seen": "2026-11-25T12:53:21Z",
+      "score": 7,
+      "tags": [
+        "크레딧·혜택"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "b73b8a49bcf6db7b1985": {
+      "id": "b73b8a49bcf6db7b1985",
+      "source": "AI 활용 갤러리",
+      "title": "쌀먹을 하기전에 aws나 클플같은곳들 스타트업을 먼저",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=204399&list_num=100&page=2",
+      "published_at": "2026-11-25T10:47:47Z",
+      "snippet": "",
+      "first_seen": "2026-11-25T12:53:21Z",
+      "last_seen": "2026-11-25T12:53:21Z",
+      "score": 10,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "c62594b4e9a7a047334f": {
+      "id": "c62594b4e9a7a047334f",
+      "source": "AI 활용 갤러리",
+      "title": "젬황 작년 대학생 12개월 기간 만료 할인 받으려면 인증 해야함?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=204333&list_num=100&page=3",
+      "published_at": "2026-11-25T09:55:45Z",
+      "snippet": "",
+      "first_seen": "2026-11-25T12:53:21Z",
+      "last_seen": "2026-11-25T12:53:21Z",
+      "score": 5,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "cbf5b8aa4798ba71b85d": {
+      "id": "cbf5b8aa4798ba71b85d",
+      "source": "Google News · 해외",
+      "title": "One Claude Code App Build Saves $10 Using the Free LLM API - Geeky Gadgets",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Tckk5TkgzTGNrM0xvQzFxQVhjSnhjUWliTjgzSGRGRXJvRkIxN3dNQ3duN3hkYjV6ZE5aVDQ4NVVJSVQ4eGVEWmEtVXJBTndlalJudnFfazg5VWx4SFNoem04bjA5Qlh0U2NJeldYTjBTWjg?oc=5",
+      "published_at": "2026-11-25T09:45:31Z",
+      "snippet": "One Claude Code App Build Saves $10 Using the Free LLM API Geeky Gadgets",
+      "first_seen": "2026-11-25T12:53:21Z",
+      "last_seen": "2026-11-25T12:53:21Z",
+      "score": 6,
+      "tags": [
+        "API·토큰"
+      ],
+      "credibility": "뉴스 검색 결과 · 공식 확인 필요"
+    },
+    "fce29d497c7f2f5e6853": {
+      "id": "fce29d497c7f2f5e6853",
+      "source": "AI 활용 갤러리",
+      "title": "짚 초기화권 5개 + 크레딧을 언제다 털지 ㅅㅂ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=204310&list_num=100&page=3",
+      "published_at": "2026-11-25T09:35:00Z",
+      "snippet": "",
+      "first_seen": "2026-11-25T12:53:21Z",
+      "last_seen": "2026-11-25T12:53:21Z",
+      "score": 7,
+      "tags": [
+        "크레딧·혜택"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "5e3a8a8c68b076bfafa9": {
+      "id": "5e3a8a8c68b076bfafa9",
+      "source": "AI 활용 갤러리",
+      "title": "하 젬황 블프 할인 왜 나는 안해줘?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=204298&list_num=100&page=3",
+      "published_at": "2026-11-25T09:28:04Z",
+      "snippet": "",
+      "first_seen": "2026-11-25T12:53:21Z",
+      "last_seen": "2026-11-25T12:53:21Z",
+      "score": 5,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "b08b5a7cd9dd4f1df9c2": {
+      "id": "b08b5a7cd9dd4f1df9c2",
+      "source": "Google News · 해외",
+      "title": "Best Free AI Models 2026: What's Free and Where to Use It - Fello AI",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FSGoyTkZPOWtOb0xLUld6QTBoamp3MGg0b2pjcURBaXk2dllWN3B6SlNvYUMxZzdIUnM2UG5JRlVvcDhoY1QxcVlBVQ?oc=5",
+      "published_at": "2026-11-25T09:11:02Z",
+      "snippet": "Best Free AI Models 2026: What's Free and Where to Use It Fello AI",
+      "first_seen": "2026-11-16T00:23:53Z",
+      "last_seen": "2026-11-25T12:53:21Z",
+      "score": 6,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "뉴스 검색 결과 · 공식 확인 필요"
+    },
+    "28c9921216d6a4a67063": {
+      "id": "28c9921216d6a4a67063",
+      "source": "Google News · 한국",
+      "title": "수십억 달러 든 AI 모델 무료 공개하는 이유는 - 토큰포스트",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LT0ZZQUFuc19JeDZtb3NWMjYwMExNMmw4WnkyZ1NPRWhIcTVpdjZqQkhJRi0zY2dyQU9PSG5hUUxqeVRZVFJyY2NWa0NibkdTRFA4dWNUc9IBXEFVX3lxTE9SMWh6Ui0zSHJ1d1E2emZJZERRLVJOLXd1ZTc3TDVvTW1UUVFkTkZPb0IwZWc5dnpNWFlPUEJ5bVFCekNZc1JFNGRuaFpPaUVSLTc1YWt5cDhKdjVn?oc=5",
+      "published_at": "2026-11-25T04:18:23Z",
+      "snippet": "수십억 달러 든 AI 모델 무료 공개하는 이유는 토큰포스트",
+      "first_seen": "2026-11-25T12:53:21Z",
+      "last_seen": "2026-11-25T12:53:21Z",
+      "score": 6,
+      "tags": [
+        "API·토큰"
+      ],
+      "credibility": "뉴스 검색 결과 · 공식 확인 필요"
+    },
     "2d5cf4f9d5bb02716dd4": {
       "id": "2d5cf4f9d5bb02716dd4",
       "source": "AI 활용 갤러리",
@@ -431,25 +596,10 @@
       "published_at": "2026-11-23T14:37:00Z",
       "snippet": "Vercel X offers 40 AI teams $9M in credits with no equity Quasa.io",
       "first_seen": "2026-11-23T22:38:51Z",
-      "last_seen": "2026-11-25T02:48:03Z",
+      "last_seen": "2026-11-25T12:53:21Z",
       "score": 7,
       "tags": [
         "크레딧·혜택"
-      ],
-      "credibility": "뉴스 검색 결과 · 공식 확인 필요"
-    },
-    "42b78d88ae436804faa4": {
-      "id": "42b78d88ae436804faa4",
-      "source": "Google News · 해외",
-      "title": "Google AI Studio: What It Is, What Is Free, How to Use It - Fello AI",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xYTVxcHBOdlhtemFUcjBoekthU3Q5WEg2eGYtMWJpdVJuU2w0cWV5eXN0S3JOaWJSeHE0ejVwUVBoRksyN1dCSXUwTzVnZw?oc=5",
-      "published_at": "2026-11-23T09:21:43Z",
-      "snippet": "Google AI Studio: What It Is, What Is Free, How to Use It Fello AI",
-      "first_seen": "2026-11-14T01:50:40Z",
-      "last_seen": "2026-11-25T02:48:03Z",
-      "score": 6,
-      "tags": [
-        "무료정보"
       ],
       "credibility": "뉴스 검색 결과 · 공식 확인 필요"
     },
@@ -476,7 +626,7 @@
       "published_at": "2026-11-23T09:04:18Z",
       "snippet": "Best Free AI Voice Generator in 2026: 10 Tools and Their Real Limits Fello AI",
       "first_seen": "2026-11-23T22:38:51Z",
-      "last_seen": "2026-11-23T22:38:51Z",
+      "last_seen": "2026-11-25T12:53:21Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -491,7 +641,7 @@
       "published_at": "2026-11-23T08:00:00Z",
       "snippet": "Kimi Pricing 2026: Plans, API Costs & Free Tier Fello AI",
       "first_seen": "2026-11-16T00:23:53Z",
-      "last_seen": "2026-11-25T02:48:03Z",
+      "last_seen": "2026-11-25T12:53:21Z",
       "score": 11,
       "tags": [
         "API·토큰",
@@ -875,33 +1025,33 @@
       ],
       "credibility": "커뮤니티 제보 · 검증 필요"
     },
+    "42b78d88ae436804faa4": {
+      "id": "42b78d88ae436804faa4",
+      "source": "Google News · 해외",
+      "title": "Google AI Studio: What It Is, What Is Free, How to Use It - Fello AI",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xYTVxcHBOdlhtemFUcjBoekthU3Q5WEg2eGYtMWJpdVJuU2w0cWV5eXN0S3JOaWJSeHE0ejVwUVBoRksyN1dCSXUwTzVnZw?oc=5",
+      "published_at": "2026-11-22T08:00:00Z",
+      "snippet": "Google AI Studio: What It Is, What Is Free, How to Use It Fello AI",
+      "first_seen": "2026-11-14T01:50:40Z",
+      "last_seen": "2026-11-25T12:53:21Z",
+      "score": 6,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "뉴스 검색 결과 · 공식 확인 필요"
+    },
     "86942adccf62762b5217": {
       "id": "86942adccf62762b5217",
       "source": "Google News · 해외",
       "title": "Best Free Crypto APIs in 2026: Keyless Access & Free API Plans - Coingecko",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YUmJCQ1AxN2xjbTBUTE5COGV0WFJ2emFZR3VjdUdJRUJuOUNEeTgya2ZJNWZQZ1lUcktNRjZwWHF2bXpobEpHYWVIZ3FBN3FlVm9YVklRTV9YUHl0dzNzeFBR?oc=5",
-      "published_at": "2026-11-22T13:02:25Z",
+      "published_at": "2026-11-22T08:00:00Z",
       "snippet": "Best Free Crypto APIs in 2026: Keyless Access & Free API Plans Coingecko",
       "first_seen": "2026-11-14T08:58:17Z",
-      "last_seen": "2026-11-25T02:48:03Z",
+      "last_seen": "2026-11-25T12:53:21Z",
       "score": 13,
       "tags": [
         "API·토큰"
-      ],
-      "credibility": "뉴스 검색 결과 · 공식 확인 필요"
-    },
-    "b08b5a7cd9dd4f1df9c2": {
-      "id": "b08b5a7cd9dd4f1df9c2",
-      "source": "Google News · 해외",
-      "title": "Best Free AI Models 2026: What's Free and Where to Use It - Fello AI",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FSGoyTkZPOWtOb0xLUld6QTBoamp3MGg0b2pjcURBaXk2dllWN3B6SlNvYUMxZzdIUnM2UG5JRlVvcDhoY1QxcVlBVQ?oc=5",
-      "published_at": "2026-11-22T08:00:00Z",
-      "snippet": "Best Free AI Models 2026: What's Free and Where to Use It Fello AI",
-      "first_seen": "2026-11-16T00:23:53Z",
-      "last_seen": "2026-11-25T02:48:03Z",
-      "score": 6,
-      "tags": [
-        "무료정보"
       ],
       "credibility": "뉴스 검색 결과 · 공식 확인 필요"
     },
@@ -913,7 +1063,22 @@
       "published_at": "2026-11-22T08:00:00Z",
       "snippet": "Is Google Gemini Free? Google's Free Plan Explained (2026) Fello AI",
       "first_seen": "2026-11-13T15:42:10Z",
-      "last_seen": "2026-11-25T02:48:03Z",
+      "last_seen": "2026-11-25T12:53:21Z",
+      "score": 6,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "뉴스 검색 결과 · 공식 확인 필요"
+    },
+    "3dd107cc197eb2a99065": {
+      "id": "3dd107cc197eb2a99065",
+      "source": "Google News · 해외",
+      "title": "Gemini Student Offer: Free AI Pro or Plus Year, Ends Dec 31 - Fello AI",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xWmkxQU1kN3dHZUtxa0FGMm5rNmpwLXp6NUtNWmo2OWI1M181N29nU0xiV1hfcHR0N2Uwc0tMOTk3RHRzTGNtdExTSGZ5ZjZLWVZwdkNlM2VJajNIc1BDWmNEbF9obEkyR292LXBVc2tENVF1UzcwY2JR?oc=5",
+      "published_at": "2026-11-22T08:00:00Z",
+      "snippet": "Gemini Student Offer: Free AI Pro or Plus Year, Ends Dec 31 Fello AI",
+      "first_seen": "2026-11-25T12:53:21Z",
+      "last_seen": "2026-11-25T12:53:21Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -1048,7 +1213,7 @@
       "published_at": "2026-11-21T18:24:23Z",
       "snippet": "Kiro vs Claude Code: $20 Plans, 1,000 Credits vs Tokens shattered.io",
       "first_seen": "2026-11-21T19:48:44Z",
-      "last_seen": "2026-11-25T02:48:03Z",
+      "last_seen": "2026-11-25T12:53:21Z",
       "score": 7,
       "tags": [
         "API·토큰",
@@ -1305,7 +1470,7 @@
       "published_at": "2026-11-21T08:00:00Z",
       "snippet": "ChatGPT for Academic Researchers: Free Plus, How to Apply Fello AI",
       "first_seen": "2026-11-23T10:45:26Z",
-      "last_seen": "2026-11-25T02:48:03Z",
+      "last_seen": "2026-11-25T12:53:21Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -1575,7 +1740,7 @@
       "published_at": "2026-11-20T08:00:00Z",
       "snippet": "ChatGPT Credits: What They Cost and How They Work Fello AI",
       "first_seen": "2026-11-18T09:10:42Z",
-      "last_seen": "2026-11-25T02:48:03Z",
+      "last_seen": "2026-11-25T12:53:21Z",
       "score": 7,
       "tags": [
         "크레딧·혜택"
@@ -1877,7 +2042,7 @@
       "published_at": "2026-11-19T10:05:15Z",
       "snippet": "Muse Tutorial: Getting AMD’s API for Free The API is here—AM KuCoin",
       "first_seen": "2026-11-21T12:38:49Z",
-      "last_seen": "2026-11-25T02:48:03Z",
+      "last_seen": "2026-11-25T12:53:21Z",
       "score": 6,
       "tags": [
         "API·토큰"
@@ -1892,7 +2057,7 @@
       "published_at": "2026-11-19T09:12:12Z",
       "snippet": "딥씨크, 유료 AI 웹 검색 17일 만에 무료 전환… 이용자들은 무엇을 기대할까? (+AI, DeepSeek, 웹 검색, 서비스) 민심뉴스",
       "first_seen": "2026-11-19T17:23:06Z",
-      "last_seen": "2026-11-25T02:48:03Z",
+      "last_seen": "2026-11-25T12:53:21Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -1907,7 +2072,7 @@
       "published_at": "2026-11-19T08:00:00Z",
       "snippet": "Best Free AI for Coding in 2026: DeepSeek V4 Pro, Qwen 3.6 & Kimi K2.6 Tested Fello AI",
       "first_seen": "2026-11-05T15:49:57Z",
-      "last_seen": "2026-11-25T02:48:03Z",
+      "last_seen": "2026-11-25T12:53:21Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -2042,7 +2207,7 @@
       "published_at": "2026-11-18T22:24:26Z",
       "snippet": "Google Gemini의 개인 비서 기능 ‘Tasks’, 이제 무료로 제공 GeekNews",
       "first_seen": "2026-11-20T07:14:40Z",
-      "last_seen": "2026-11-25T02:48:03Z",
+      "last_seen": "2026-11-25T12:53:21Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -2238,7 +2403,7 @@
       "published_at": "2026-11-17T21:46:06Z",
       "snippet": "This is a web app that I built to introduce chess to my children, along with scratching a personal game analysis itch. I link to the games (free, ad free, tracker free, affiliate free, etc), though there is a full learning section as well that was my primary focus. I imagine many here already know the basics of chess. Of course I leveraged AI in all parts of this project -- and indeed the analysis section uses three separate neural networks to analyze play -- but never without full engagement an",
       "first_seen": "2026-11-18T01:20:19Z",
-      "last_seen": "2026-11-25T02:48:03Z",
+      "last_seen": "2026-11-25T12:53:21Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -2268,7 +2433,7 @@
       "published_at": "2026-11-17T20:00:29Z",
       "snippet": "Like most, I was stoked on LLMs when they became available. Particularly on the earlier free tiers where the slightly questionable answers were offset by generous tokens. Now, I'm finding that having to use this tech is becoming much less fun. The constant corrections, the constant prompting for greater brevity, the grating certainty and sycophancy. Others probably are forgiving considering the net benefit. But for me it honestly now feels like a chore, which is reflected in how my frustration i",
       "first_seen": "2026-11-18T01:20:19Z",
-      "last_seen": "2026-11-25T02:48:03Z",
+      "last_seen": "2026-11-25T12:53:21Z",
       "score": 11,
       "tags": [
         "API·토큰",
@@ -2961,7 +3126,7 @@
       "published_at": "2026-11-14T17:48:35Z",
       "snippet": "YVD is an AI studio for creating videos, images, and music. Features include text-to-video, text-to-image, AI music generation, and PNG background removal. Built with Seedance and GPT image models. Free tier with 20 welcome credits + 10 daily credits.",
       "first_seen": "2026-11-14T20:43:15Z",
-      "last_seen": "2026-11-25T02:48:03Z",
+      "last_seen": "2026-11-25T12:53:21Z",
       "score": 12,
       "tags": [
         "크레딧·혜택",
@@ -3112,7 +3277,7 @@
       "published_at": "2026-11-14T10:40:41Z",
       "snippet": "Orty is an AI lead qualification that does 2 things: writes the email for you when you find a client , and helps you to find that client without a database or scraping the web . Honestly i built it because of a problem i had when i started working in the freelance industry , the problem wasn't finding people because you can find 1,000 people a day and send them an email using AI , but it was finding who is worth it without spending much time on that. It's pretty easy to explain how it works beca",
       "first_seen": "2026-11-14T15:50:14Z",
-      "last_seen": "2026-11-25T02:48:03Z",
+      "last_seen": "2026-11-25T12:53:21Z",
       "score": 6,
       "tags": [
         "API·토큰"
@@ -3127,8 +3292,8 @@
       "published_at": null,
       "snippet": "odels * {% icon name=\"check_circle\" /%} Free input & output tokens * {% icon name=\"check_circle\" /%} Google AI Studio access * {% icon name=\"check_circle\" /%} Content used to improve our products{% sup %}[*](/docs/terms){% /su",
       "first_seen": "2026-11-14T08:58:17Z",
-      "last_seen": "2026-11-25T02:48:03Z",
-      "verified_at": "2026-11-25T02:47:39Z",
+      "last_seen": "2026-11-25T12:53:21Z",
+      "verified_at": "2026-11-25T12:52:56Z",
       "verification": "official_page_text_only",
       "score": 9,
       "tags": [
@@ -3144,8 +3309,8 @@
       "published_at": null,
       "snippet": "ocation allows anyone to use a total of 10,000 Neurons per day at no charge . To use more than 10,000 Neurons per day, you need to sign up for the Workers Paid plan . On Workers Paid, you will be charged at $0.011 / 1,000 Neurons for a",
       "first_seen": "2026-11-14T08:58:17Z",
-      "last_seen": "2026-11-25T02:48:03Z",
-      "verified_at": "2026-11-25T02:47:40Z",
+      "last_seen": "2026-11-25T12:53:21Z",
+      "verified_at": "2026-11-25T12:52:57Z",
       "verification": "official_page_text_only",
       "score": 13,
       "tags": [
@@ -3268,8 +3433,8 @@
       "published_at": null,
       "snippet": "py page The :free variant allows you to access free versions of models on OpenRouter. Usage Append :free to the ID of a model that has a free entry. :free is a catalog variant , so the free version appears as its own entry in the",
       "first_seen": "2026-11-14T01:50:40Z",
-      "last_seen": "2026-11-25T02:48:03Z",
-      "verified_at": "2026-11-25T02:47:41Z",
+      "last_seen": "2026-11-25T12:53:21Z",
+      "verified_at": "2026-11-25T12:52:59Z",
       "verification": "official_page_text_only",
       "score": 6,
       "tags": [
@@ -3330,7 +3495,7 @@
       "published_at": "2026-11-13T23:50:03Z",
       "snippet": "I am the founder of Human Assisted Intelligence and I believe AI can be used to reduce polarization and improve the way people communicate and reach agreement. At https://mediationbench.com/ , there are many frontier LLMs tested, but it is difficult to keep up. I've been trying to get more free openrouter or huggingface credits. Azure for OpenAI and Anthropic have both provided token credits. (Thank You!) The research paper is there as well. There have been efforts to use LLMs to lie and play di",
       "first_seen": "2026-11-14T01:50:40Z",
-      "last_seen": "2026-11-25T02:48:03Z",
+      "last_seen": "2026-11-25T12:53:21Z",
       "score": 10,
       "tags": [
         "API·토큰",
@@ -3607,173 +3772,8 @@
         "무료정보"
       ],
       "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "daea7ffbab7d28b7a932": {
-      "id": "daea7ffbab7d28b7a932",
-      "source": "AI 활용 갤러리",
-      "title": "짚프로 코덱스 크레딧 줬던 거 연말까지였나?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=182560&list_num=100&page=1",
-      "published_at": "2026-11-13T06:52:02Z",
-      "snippet": "",
-      "first_seen": "2026-11-13T07:20:08Z",
-      "last_seen": "2026-11-13T07:20:08Z",
-      "score": 8,
-      "tags": [
-        "크레딧·혜택"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "d6ace85f431f68541a01": {
-      "id": "d6ace85f431f68541a01",
-      "source": "AI 활용 갤러리",
-      "title": "오라클 무료 쓰는 사람",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=182424&list_num=100&page=2",
-      "published_at": "2026-11-13T05:28:35Z",
-      "snippet": "",
-      "first_seen": "2026-11-13T07:20:08Z",
-      "last_seen": "2026-11-13T07:20:08Z",
-      "score": 6,
-      "tags": [
-        "무료정보"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "83a4fe2ca270ae5240e0": {
-      "id": "83a4fe2ca270ae5240e0",
-      "source": "AI 활용 갤러리",
-      "title": "클로드 맥스 올리고 크레딧 남는거로 할거 추천좀",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=182414&list_num=100&page=2",
-      "published_at": "2026-11-13T05:20:03Z",
-      "snippet": "",
-      "first_seen": "2026-11-13T07:20:08Z",
-      "last_seen": "2026-11-13T07:20:08Z",
-      "score": 8,
-      "tags": [
-        "크레딧·혜택"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "2cf877ab5e9cee556781": {
-      "id": "2cf877ab5e9cee556781",
-      "source": "AI 활용 갤러리",
-      "title": "클로드 할인 받으니까 페이블 무제한 됨",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=182392&list_num=100&page=3",
-      "published_at": "2026-11-13T05:03:30Z",
-      "snippet": "",
-      "first_seen": "2026-11-13T07:20:08Z",
-      "last_seen": "2026-11-13T07:20:08Z",
-      "score": 6,
-      "tags": [
-        "무료정보"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "7258737e93dae6056ae6": {
-      "id": "7258737e93dae6056ae6",
-      "source": "Google News · 한국",
-      "title": "[요금제 비교] 제미나이 요금제 총정리…무료부터 울트라 30만 원까지 - AI 매터스",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wMGVYMmNmd2puWU1rS1oxNzVYVWx1UWd1cFljSGhCNGx5emVKWkFrNjljTzFYVWo0S2xZTUVrQWh1Q0F0anNMQjB0OEp5NzRIRmlrMQ?oc=5",
-      "published_at": "2026-11-13T01:09:21Z",
-      "snippet": "[요금제 비교] 제미나이 요금제 총정리…무료부터 울트라 30만 원까지 AI 매터스",
-      "first_seen": "2026-11-13T07:20:08Z",
-      "last_seen": "2026-11-17T18:38:30Z",
-      "score": 6,
-      "tags": [
-        "무료정보"
-      ],
-      "credibility": "뉴스 검색 결과 · 공식 확인 필요"
-    },
-    "f65e50cc07d76cf06ad6": {
-      "id": "f65e50cc07d76cf06ad6",
-      "source": "AI 활용 갤러리",
-      "title": "딸깍으로 글 써서 쌀먹하겠다는 놈들 진짜 문제의 핵심을 모르네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=181931&list_num=100&page=1",
-      "published_at": "2026-11-13T00:18:05Z",
-      "snippet": "",
-      "first_seen": "2026-11-13T00:22:41Z",
-      "last_seen": "2026-11-13T00:22:41Z",
-      "score": 10,
-      "tags": [
-        "무료정보"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "bb8c4cf35dca168eadee": {
-      "id": "bb8c4cf35dca168eadee",
-      "source": "Google News · 한국",
-      "title": "배달의민족, 외식업 AI 도구 27종 무료 개방…자영업 DX 가속 - 테넌트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBab2NUaDh0SzQySHg0U05JMGJZcTFJcFRXSlBId096eGYzeXQ3ZUxLVGJ2Z1ptbXBfOGVBX1VMX2l5UXMyQXJCSnhVaVY?oc=5",
-      "published_at": "2026-11-12T23:44:09Z",
-      "snippet": "배달의민족, 외식업 AI 도구 27종 무료 개방…자영업 DX 가속 테넌트뉴스",
-      "first_seen": "2026-11-17T18:38:30Z",
-      "last_seen": "2026-11-19T17:23:06Z",
-      "score": 6,
-      "tags": [
-        "무료정보"
-      ],
-      "credibility": "뉴스 검색 결과 · 공식 확인 필요"
-    },
-    "74a5d101c283c371926d": {
-      "id": "74a5d101c283c371926d",
-      "source": "AI 활용 갤러리",
-      "title": "문돌이 짚프로100 리셋권3 크레딧49,000 언제씀?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=181891&list_num=100&page=1",
-      "published_at": "2026-11-12T23:41:50Z",
-      "snippet": "",
-      "first_seen": "2026-11-13T00:22:41Z",
-      "last_seen": "2026-11-13T00:22:41Z",
-      "score": 7,
-      "tags": [
-        "크레딧·혜택"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "84e00a627d58f3dc62cf": {
-      "id": "84e00a627d58f3dc62cf",
-      "source": "AI 활용 갤러리",
-      "title": "결국 AI쌀먹은 AI글래스로 자격증합격이네 ㅋㅋ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=181878&list_num=100&page=1",
-      "published_at": "2026-11-12T23:28:39Z",
-      "snippet": "",
-      "first_seen": "2026-11-13T00:22:41Z",
-      "last_seen": "2026-11-13T00:22:41Z",
-      "score": 11,
-      "tags": [
-        "무료정보"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "c6fc55be1a20d2f3a1b2": {
-      "id": "c6fc55be1a20d2f3a1b2",
-      "source": "Google News · 한국",
-      "title": "버즈니, AI로 원하는 앱 무료 제작···19일까지 신청 - 한스경제",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tV1BOeGtvaWJTWWt6N1MwLU1rLWtONjNFVW5OYUJnQzhtQXZZdURvZWZXbHhIeEtkd3VnRm55clV5eGw1SExTSTVtXzZKNEVRem9KLXVUbGlzYVBzWjdocFhRUzNUSmk0VWlUWGZEY9IBb0FVX3lxTE5tV1BOeGtvaWJTWWt6N1MwLU1rLWtONjNFVW5OYUJnQzhtQXZZdURvZWZXbHhIeEtkd3VnRm55clV5eGw1SExTSTVtXzZKNEVRem9KLXVUbGlzYVBzWjdocFhRUzNUSmk0VWlUWGZEYw?oc=5",
-      "published_at": "2026-11-12T23:12:19Z",
-      "snippet": "버즈니, AI로 원하는 앱 무료 제작···19일까지 신청 한스경제",
-      "first_seen": "2026-11-13T07:20:08Z",
-      "last_seen": "2026-11-19T17:23:06Z",
-      "score": 6,
-      "tags": [
-        "무료정보"
-      ],
-      "credibility": "뉴스 검색 결과 · 공식 확인 필요"
-    },
-    "d37a429c4f6c8dbf260e": {
-      "id": "d37a429c4f6c8dbf260e",
-      "source": "Google News · 한국",
-      "title": "XRP레저 무료 노드, 하루 요청 170만건 넘었다 - 토큰포스트",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45MnNYZ3MtLWktRndPUXMzV05PVzJLZUd1NzdOQzBmUzU0elg0eVlkR0NxNF9PZnRPOU1EczZjSEk2ZWtacENtQ0RNc3R0TmVxNUdsbWV2WUtxdWvSAWBBVV95cUxPc1NYeGNWdnZCbkY2X3VRakpZdkNZSW9tdk5RZmwtRHdFOFAxczlvSWcxRjd5RmxtcnlVOUM1a280blB6OVdvX2dWcEpfdEwtVlQ1VERFTEFoZlo3eU45OWk?oc=5",
-      "published_at": "2026-11-12T21:35:00Z",
-      "snippet": "XRP레저 무료 노드, 하루 요청 170만건 넘었다 토큰포스트",
-      "first_seen": "2026-11-13T00:22:41Z",
-      "last_seen": "2026-11-13T00:22:41Z",
-      "score": 6,
-      "tags": [
-        "API·토큰"
-      ],
-      "credibility": "뉴스 검색 결과 · 공식 확인 필요"
     }
   },
   "notified": [],
-  "last_checked": "2026-11-25T02:48:03Z"
+  "last_checked": "2026-11-25T12:53:21Z"
 }
