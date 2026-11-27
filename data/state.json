@@ -1,6 +1,279 @@
 {
   "initialized": true,
   "items": {
+    "8801d3cb2ffcd6d2fe85": {
+      "id": "8801d3cb2ffcd6d2fe85",
+      "source": "공식 · OpenRouter",
+      "title": "OpenRouter AI API free 모델 공식 안내",
+      "url": "https://openrouter.ai/docs/guides/routing/model-variants/free",
+      "published_at": null,
+      "snippet": "py page The :free variant allows you to access free versions of models on OpenRouter. Usage Append :free to the ID of a model that has a free entry. :free is a catalog variant , so the free version appears as its own entry in the",
+      "first_seen": "2026-11-27T05:22:40Z",
+      "last_seen": "2026-11-27T05:22:40Z",
+      "verified_at": "2026-11-27T05:22:18Z",
+      "verification": "official_page_text_only",
+      "score": 6,
+      "tags": [
+        "API·토큰"
+      ],
+      "credibility": "공식 도메인 게시물 · 조건 별도 확인"
+    },
+    "9aa95a6a8cb99d942028": {
+      "id": "9aa95a6a8cb99d942028",
+      "source": "AI 활용 갤러리",
+      "title": "이번 젬민이 블프 할인하는거 엔화결제해야함?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=207652&list_num=100&page=1",
+      "published_at": "2026-11-27T05:11:25Z",
+      "snippet": "",
+      "first_seen": "2026-11-27T05:22:40Z",
+      "last_seen": "2026-11-27T05:22:40Z",
+      "score": 5,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "9f772f199029ea3e14b7": {
+      "id": "9f772f199029ea3e14b7",
+      "source": "AI 활용 갤러리",
+      "title": "2시인데 한국은 제미나이 패스인가 블프할인내놔",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=207637&list_num=100&page=1",
+      "published_at": "2026-11-27T05:01:47Z",
+      "snippet": "",
+      "first_seen": "2026-11-27T05:22:40Z",
+      "last_seen": "2026-11-27T05:22:40Z",
+      "score": 6,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "2afea1d75dc51efcc006": {
+      "id": "2afea1d75dc51efcc006",
+      "source": "Google News · 해외",
+      "title": "Kimi’s science program offers up to $20,000 in API credits—not cash - Digg",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1naEl3ZWtMc2UySlIzYmRpOEhDNVFsRkRGdkE3WG5hbmRnbXZ2dURrRWZMNkp5SGNBQzNsSnJfUF9OUQ?oc=5",
+      "published_at": "2026-11-27T04:59:29Z",
+      "snippet": "Kimi’s science program offers up to $20,000 in API credits—not cash Digg",
+      "first_seen": "2026-11-27T05:22:40Z",
+      "last_seen": "2026-11-27T05:22:40Z",
+      "score": 7,
+      "tags": [
+        "API·토큰",
+        "크레딧·혜택"
+      ],
+      "credibility": "뉴스 검색 결과 · 공식 확인 필요"
+    },
+    "8651c515ce05888ef378": {
+      "id": "8651c515ce05888ef378",
+      "source": "AI 활용 갤러리",
+      "title": "젬 블프 할인은 코리안 패싱임?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=207619&list_num=100&page=1",
+      "published_at": "2026-11-27T04:43:04Z",
+      "snippet": "",
+      "first_seen": "2026-11-27T05:22:40Z",
+      "last_seen": "2026-11-27T05:22:40Z",
+      "score": 5,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "3a69efa7316d14b09854": {
+      "id": "3a69efa7316d14b09854",
+      "source": "AI 활용 갤러리",
+      "title": "쌀먹의 신 강림",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=207616&list_num=100&page=1",
+      "published_at": "2026-11-27T04:42:00Z",
+      "snippet": "",
+      "first_seen": "2026-11-27T05:22:40Z",
+      "last_seen": "2026-11-27T05:22:40Z",
+      "score": 10,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "23902510e9b24e6c9774": {
+      "id": "23902510e9b24e6c9774",
+      "source": "AI 활용 갤러리",
+      "title": "무료ios앱위해서 맥미니사기 vs 그냥그돈으로 여행다녀오기",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=207549&list_num=100&page=2",
+      "published_at": "2026-11-27T03:52:57Z",
+      "snippet": "",
+      "first_seen": "2026-11-27T05:22:40Z",
+      "last_seen": "2026-11-27T05:22:40Z",
+      "score": 6,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "4df237b8207ab3a0f47a": {
+      "id": "4df237b8207ab3a0f47a",
+      "source": "AI 활용 갤러리",
+      "title": "제미나이 7500원짜리랑 무료랑 무슨차이야?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=207520&list_num=100&page=2",
+      "published_at": "2026-11-27T03:38:23Z",
+      "snippet": "",
+      "first_seen": "2026-11-27T05:22:40Z",
+      "last_seen": "2026-11-27T05:22:40Z",
+      "score": 7,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "7da0c2439b7528539346": {
+      "id": "7da0c2439b7528539346",
+      "source": "AI 활용 갤러리",
+      "title": "좆글 ㄹㅇ 점점 쌀먹혜택 줄이는구나",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=207501&list_num=100&page=2",
+      "published_at": "2026-11-27T03:24:06Z",
+      "snippet": "",
+      "first_seen": "2026-11-27T05:22:40Z",
+      "last_seen": "2026-11-27T05:22:40Z",
+      "score": 10,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "705c74730a5084d30922": {
+      "id": "705c74730a5084d30922",
+      "source": "AI 활용 갤러리",
+      "title": "젬황 50%할인 도대체 언제뜨는거임? 기다리다가 지치노",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=207490&list_num=100&page=2",
+      "published_at": "2026-11-27T03:16:46Z",
+      "snippet": "",
+      "first_seen": "2026-11-27T05:22:40Z",
+      "last_seen": "2026-11-27T05:22:40Z",
+      "score": 5,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "0cc4b113fa979a42f4f3": {
+      "id": "0cc4b113fa979a42f4f3",
+      "source": "AI 활용 갤러리",
+      "title": "념글 프롬 쌀먹",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=207479&list_num=100&page=2",
+      "published_at": "2026-11-27T03:03:28Z",
+      "snippet": "",
+      "first_seen": "2026-11-27T05:22:40Z",
+      "last_seen": "2026-11-27T05:22:40Z",
+      "score": 10,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "891cca64e77fc3901817": {
+      "id": "891cca64e77fc3901817",
+      "source": "AI 활용 갤러리",
+      "title": "근데 젬트라는 할인 원래 잘안해?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=207455&list_num=100&page=3",
+      "published_at": "2026-11-27T02:50:03Z",
+      "snippet": "",
+      "first_seen": "2026-11-27T05:22:40Z",
+      "last_seen": "2026-11-27T05:22:40Z",
+      "score": 5,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "af05e9398d21772c870b": {
+      "id": "af05e9398d21772c870b",
+      "source": "AI 활용 갤러리",
+      "title": "뮤즈 무료 쓰고부터 좋은점 ㅋㅋ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=207412&list_num=100&page=3",
+      "published_at": "2026-11-27T02:18:28Z",
+      "snippet": "",
+      "first_seen": "2026-11-27T05:22:40Z",
+      "last_seen": "2026-11-27T05:22:40Z",
+      "score": 6,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "cdad9f63d87e91175269": {
+      "id": "cdad9f63d87e91175269",
+      "source": "AI 활용 갤러리",
+      "title": "드리미나ai 울트라 구독에서 얼리 블랙 프라이데이 할인 혜택이 어떻게 적용되는지 아시는 분?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=207402&list_num=100&page=3",
+      "published_at": "2026-11-27T02:08:27Z",
+      "snippet": "",
+      "first_seen": "2026-11-27T05:22:40Z",
+      "last_seen": "2026-11-27T05:22:40Z",
+      "score": 6,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "012ccb36023eb01cf71f": {
+      "id": "012ccb36023eb01cf71f",
+      "source": "AI 활용 갤러리",
+      "title": "나는 지피티플러스 구독 2달만에 20만원치 크레딧 태웠는데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=207391&list_num=100&page=3",
+      "published_at": "2026-11-27T01:59:30Z",
+      "snippet": "",
+      "first_seen": "2026-11-27T05:22:40Z",
+      "last_seen": "2026-11-27T05:22:40Z",
+      "score": 7,
+      "tags": [
+        "크레딧·혜택"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "6e305ec6e4378b5724c4": {
+      "id": "6e305ec6e4378b5724c4",
+      "source": "AI 활용 갤러리",
+      "title": "짚 비즈니스 패스트 무료 적용안되는 버그있다고 누가 썻던데 사실임?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=207389&list_num=100&page=3",
+      "published_at": "2026-11-27T01:59:01Z",
+      "snippet": "",
+      "first_seen": "2026-11-27T05:22:40Z",
+      "last_seen": "2026-11-27T05:22:40Z",
+      "score": 6,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "cd55952b5e30e0473c52": {
+      "id": "cd55952b5e30e0473c52",
+      "source": "AI 활용 갤러리",
+      "title": "잼울트라 반값할인해줘",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=207365&list_num=100&page=3",
+      "published_at": "2026-11-27T01:46:56Z",
+      "snippet": "",
+      "first_seen": "2026-11-27T05:22:40Z",
+      "last_seen": "2026-11-27T05:22:40Z",
+      "score": 5,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "커뮤니티 제보 · 검증 필요"
+    },
+    "737c738100e56852498e": {
+      "id": "737c738100e56852498e",
+      "source": "Google News · 해외",
+      "title": "Is Claude Code Free? Free Ways to Use It in 2026 - Fello AI",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzejZEZU9tVVVzVjNJdk84VldFTVdpMUpINmVmd0tQTXh5OFphRzdMOHZ6NzJtdE5qWGdnM05pRThFVnBUZ0p4UXg3WHUtNkwxd2c?oc=5",
+      "published_at": "2026-11-26T23:12:20Z",
+      "snippet": "Is Claude Code Free? Free Ways to Use It in 2026 Fello AI",
+      "first_seen": "2026-11-27T05:22:40Z",
+      "last_seen": "2026-11-27T05:22:40Z",
+      "score": 6,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "뉴스 검색 결과 · 공식 확인 필요"
+    },
     "61bded3e028f34545735": {
       "id": "61bded3e028f34545735",
       "source": "AI 활용 갤러리",
@@ -114,7 +387,7 @@
       "published_at": "2026-11-26T05:09:30Z",
       "snippet": "챗GPT·제미나이·클로드 무료 실습…EBS, 전 국민 AI 학습 플랫폼 ‘AI이솦’ 26일 개통 피앤피뉴스",
       "first_seen": "2026-11-26T14:29:53Z",
-      "last_seen": "2026-11-26T23:19:29Z",
+      "last_seen": "2026-11-27T05:22:40Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -219,7 +492,22 @@
       "published_at": "2026-11-26T02:26:19Z",
       "snippet": "챗GPT·제미나이·엑사원 무료로 쓴다… EBS, 전 국민 AI 학습 플랫폼 ‘AI이솦’ 오픈 https://www.2news.co.kr/",
       "first_seen": "2026-11-26T04:24:44Z",
-      "last_seen": "2026-11-26T23:19:29Z",
+      "last_seen": "2026-11-27T05:22:40Z",
+      "score": 6,
+      "tags": [
+        "무료정보"
+      ],
+      "credibility": "뉴스 검색 결과 · 공식 확인 필요"
+    },
+    "b9b2d99abe7870da6b89": {
+      "id": "b9b2d99abe7870da6b89",
+      "source": "Google News · 한국",
+      "title": "EBS, 전 국민 온라인 AI 학습 플랫폼 ‘AI이솦’ 오픈…국내외 AI 5종 무료 이용 - SWTV",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zVXJSX08wLTJtTTJWZTJKemZHOHpySENOdWNjYnNSOUp5QTRtU0h5UEVMX1M5eHo0VnNDb3IwRnZIbjZkZVZrOFl3UEEzMnBYcEl4MDdTWjE2Ujc1Y19jQ1BhWGdRMkc3LTZLMXZ30gFrQVVfeXFMUHBwVkREZHdYanRPTEoyNnBiaklkUGI0czgtd21IVFBpNEtmVEJEcTU2aW5LMmE5TnlOWWRTeVlzdUZveGo0R2UzS1BRWVVmTmRCQ3JPWHk4NE52OUQwbXJ2dU9pbVJsTzJFSHc?oc=5",
+      "published_at": "2026-11-26T01:11:53Z",
+      "snippet": "EBS, 전 국민 온라인 AI 학습 플랫폼 ‘AI이솦’ 오픈…국내외 AI 5종 무료 이용 SWTV",
+      "first_seen": "2026-11-27T05:22:40Z",
+      "last_seen": "2026-11-27T05:22:40Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -234,7 +522,7 @@
       "published_at": "2026-11-26T01:03:05Z",
       "snippet": "EBS, 전 국민 무료 AI학습 플랫폼 ‘AI이솦’ 400편 강좌 제공 2026년 11월 26일 정식 오픈 한국사회복지저널",
       "first_seen": "2026-11-26T04:24:44Z",
-      "last_seen": "2026-11-26T23:19:29Z",
+      "last_seen": "2026-11-27T05:22:40Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -249,7 +537,7 @@
       "published_at": "2026-11-25T19:00:07Z",
       "snippet": "스타트업 크레딧 받는 순서, AI API·GPU까지 브런치",
       "first_seen": "2026-11-26T14:29:53Z",
-      "last_seen": "2026-11-26T23:19:29Z",
+      "last_seen": "2026-11-27T05:22:40Z",
       "score": 7,
       "tags": [
         "API·토큰",
@@ -340,7 +628,7 @@
       "published_at": "2026-11-25T12:23:54Z",
       "snippet": "IP당 미캐시 요청 분당 60회…비트코인 기록 AI서 무료 조회 토큰포스트",
       "first_seen": "2026-11-25T12:53:21Z",
-      "last_seen": "2026-11-26T23:19:29Z",
+      "last_seen": "2026-11-27T05:22:40Z",
       "score": 6,
       "tags": [
         "API·토큰"
@@ -415,7 +703,7 @@
       "published_at": "2026-11-25T09:47:15Z",
       "snippet": "One Claude Code App Build Saves $10 Using the Free LLM API Geeky Gadgets",
       "first_seen": "2026-11-25T12:53:21Z",
-      "last_seen": "2026-11-26T23:19:29Z",
+      "last_seen": "2026-11-27T05:22:40Z",
       "score": 6,
       "tags": [
         "API·토큰"
@@ -460,7 +748,7 @@
       "published_at": "2026-11-25T04:18:23Z",
       "snippet": "수십억 달러 든 AI 모델 무료 공개하는 이유는 토큰포스트",
       "first_seen": "2026-11-25T12:53:21Z",
-      "last_seen": "2026-11-26T23:19:29Z",
+      "last_seen": "2026-11-27T05:22:40Z",
       "score": 6,
       "tags": [
         "API·토큰"
@@ -745,7 +1033,7 @@
       "published_at": "2026-11-24T08:00:00Z",
       "snippet": "Best Free AI Models 2026: What's Free and Where to Use It Fello AI",
       "first_seen": "2026-11-16T00:23:53Z",
-      "last_seen": "2026-11-26T23:19:29Z",
+      "last_seen": "2026-11-27T05:22:40Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -760,7 +1048,7 @@
       "published_at": "2026-11-24T08:00:00Z",
       "snippet": "Best Free AI Website Builders in 2026 Hostinger",
       "first_seen": "2026-11-26T14:29:53Z",
-      "last_seen": "2026-11-26T14:29:53Z",
+      "last_seen": "2026-11-27T05:22:40Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -972,7 +1260,7 @@
       "published_at": "2026-11-23T08:00:00Z",
       "snippet": "Kimi Pricing 2026: Plans, API Costs & Free Tier Fello AI",
       "first_seen": "2026-11-16T00:23:53Z",
-      "last_seen": "2026-11-26T23:19:29Z",
+      "last_seen": "2026-11-27T05:22:40Z",
       "score": 11,
       "tags": [
         "API·토큰",
@@ -1379,7 +1667,7 @@
       "published_at": "2026-11-22T08:00:00Z",
       "snippet": "Google AI Studio: What It Is, What Is Free, How to Use It Fello AI",
       "first_seen": "2026-11-14T01:50:40Z",
-      "last_seen": "2026-11-26T23:19:29Z",
+      "last_seen": "2026-11-27T05:22:40Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -1394,7 +1682,7 @@
       "published_at": "2026-11-22T08:00:00Z",
       "snippet": "Best Free Crypto APIs in 2026: Keyless Access & Free API Plans Coingecko",
       "first_seen": "2026-11-14T08:58:17Z",
-      "last_seen": "2026-11-26T23:19:29Z",
+      "last_seen": "2026-11-27T05:22:40Z",
       "score": 13,
       "tags": [
         "API·토큰"
@@ -1409,7 +1697,7 @@
       "published_at": "2026-11-22T08:00:00Z",
       "snippet": "Is Google Gemini Free? Google's Free Plan Explained (2026) Fello AI",
       "first_seen": "2026-11-13T15:42:10Z",
-      "last_seen": "2026-11-26T23:19:29Z",
+      "last_seen": "2026-11-27T05:22:40Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -1559,7 +1847,7 @@
       "published_at": "2026-11-21T18:24:23Z",
       "snippet": "Kiro vs Claude Code: $20 Plans, 1,000 Credits vs Tokens shattered.io",
       "first_seen": "2026-11-21T19:48:44Z",
-      "last_seen": "2026-11-26T23:19:29Z",
+      "last_seen": "2026-11-27T05:22:40Z",
       "score": 7,
       "tags": [
         "API·토큰",
@@ -1816,7 +2104,7 @@
       "published_at": "2026-11-21T08:00:00Z",
       "snippet": "ChatGPT for Academic Researchers: Free Plus, How to Apply Fello AI",
       "first_seen": "2026-11-23T10:45:26Z",
-      "last_seen": "2026-11-26T23:19:29Z",
+      "last_seen": "2026-11-27T05:22:40Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -2026,7 +2314,7 @@
       "published_at": "2026-11-20T16:29:07Z",
       "snippet": "11 Best Free AI Video Generators in 2026 (Ranked & Reviewed) Ventureburn",
       "first_seen": "2026-11-26T14:29:53Z",
-      "last_seen": "2026-11-26T14:29:53Z",
+      "last_seen": "2026-11-27T05:22:40Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -2101,7 +2389,7 @@
       "published_at": "2026-11-20T08:00:00Z",
       "snippet": "ChatGPT Credits: What They Cost and How They Work Fello AI",
       "first_seen": "2026-11-18T09:10:42Z",
-      "last_seen": "2026-11-26T23:19:29Z",
+      "last_seen": "2026-11-27T05:22:40Z",
       "score": 7,
       "tags": [
         "크레딧·혜택"
@@ -2779,7 +3067,7 @@
       "published_at": "2026-11-17T21:46:06Z",
       "snippet": "This is a web app that I built to introduce chess to my children, along with scratching a personal game analysis itch. I link to the games (free, ad free, tracker free, affiliate free, etc), though there is a full learning section as well that was my primary focus. I imagine many here already know the basics of chess. Of course I leveraged AI in all parts of this project -- and indeed the analysis section uses three separate neural networks to analyze play -- but never without full engagement an",
       "first_seen": "2026-11-18T01:20:19Z",
-      "last_seen": "2026-11-26T23:19:29Z",
+      "last_seen": "2026-11-27T05:22:40Z",
       "score": 6,
       "tags": [
         "무료정보"
@@ -2809,7 +3097,7 @@
       "published_at": "2026-11-17T20:00:29Z",
       "snippet": "Like most, I was stoked on LLMs when they became available. Particularly on the earlier free tiers where the slightly questionable answers were offset by generous tokens. Now, I'm finding that having to use this tech is becoming much less fun. The constant corrections, the constant prompting for greater brevity, the grating certainty and sycophancy. Others probably are forgiving considering the net benefit. But for me it honestly now feels like a chore, which is reflected in how my frustration i",
       "first_seen": "2026-11-18T01:20:19Z",
-      "last_seen": "2026-11-26T23:19:29Z",
+      "last_seen": "2026-11-27T05:22:40Z",
       "score": 11,
       "tags": [
         "API·토큰",
@@ -3478,299 +3766,8 @@
         "무료정보"
       ],
       "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "069f60e94e5547bb9a2d": {
-      "id": "069f60e94e5547bb9a2d",
-      "source": "AI 활용 갤러리",
-      "title": "혹시 카카오로 챗지피티 2개월 무료 받은 사람 ???",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=185288&list_num=100&page=1",
-      "published_at": "2026-11-14T18:49:08Z",
-      "snippet": "",
-      "first_seen": "2026-11-14T20:43:15Z",
-      "last_seen": "2026-11-15T00:23:56Z",
-      "score": 6,
-      "tags": [
-        "무료정보"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "eb608980ec9759792663": {
-      "id": "eb608980ec9759792663",
-      "source": "Hacker News",
-      "title": "Show HN: YVD – Generate videos, images, and music in seconds with AI",
-      "url": "https://news.ycombinator.com/item?id=50499089",
-      "published_at": "2026-11-14T17:48:35Z",
-      "snippet": "YVD is an AI studio for creating videos, images, and music. Features include text-to-video, text-to-image, AI music generation, and PNG background removal. Built with Seedance and GPT image models. Free tier with 20 welcome credits + 10 daily credits.",
-      "first_seen": "2026-11-14T20:43:15Z",
-      "last_seen": "2026-11-26T23:19:29Z",
-      "score": 12,
-      "tags": [
-        "크레딧·혜택",
-        "체험·무료등급"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "5071956f0bce6866e7fb": {
-      "id": "5071956f0bce6866e7fb",
-      "source": "AI 활용 갤러리",
-      "title": "X에 올라오는 클듀엣 초대권 쌀먹 꼭 해야됨",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=185149&list_num=100&page=2",
-      "published_at": "2026-11-14T15:56:31Z",
-      "snippet": "",
-      "first_seen": "2026-11-14T20:43:15Z",
-      "last_seen": "2026-11-15T00:23:56Z",
-      "score": 10,
-      "tags": [
-        "무료정보"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "d67af81124a4c2561d75": {
-      "id": "d67af81124a4c2561d75",
-      "source": "AI 활용 갤러리",
-      "title": "게임같은거 만들기 좋은 무료ai추천좀",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=185111&list_num=100&page=1",
-      "published_at": "2026-11-14T15:17:13Z",
-      "snippet": "",
-      "first_seen": "2026-11-14T15:50:14Z",
-      "last_seen": "2026-11-15T00:23:56Z",
-      "score": 7,
-      "tags": [
-        "무료정보"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "4dc9f3d8c3648292253a": {
-      "id": "4dc9f3d8c3648292253a",
-      "source": "AI 활용 갤러리",
-      "title": "반중력은 쫀쿠나 쌀먹 없음? 울트라 기준",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=185036&list_num=100&page=2",
-      "published_at": "2026-11-14T14:36:50Z",
-      "snippet": "",
-      "first_seen": "2026-11-14T15:50:14Z",
-      "last_seen": "2026-11-14T20:43:15Z",
-      "score": 10,
-      "tags": [
-        "무료정보"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "5020900c67ca19ed61b0": {
-      "id": "5020900c67ca19ed61b0",
-      "source": "AI 활용 갤러리",
-      "title": "클로드 이제 프로도 크레딧 주냐??",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=184982&list_num=100&page=2",
-      "published_at": "2026-11-14T14:08:59Z",
-      "snippet": "",
-      "first_seen": "2026-11-14T15:50:14Z",
-      "last_seen": "2026-11-14T15:50:14Z",
-      "score": 8,
-      "tags": [
-        "크레딧·혜택"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "8580701d2515b9b9dadd": {
-      "id": "8580701d2515b9b9dadd",
-      "source": "AI 활용 갤러리",
-      "title": "vertex ai 300달러 크레딧 쌀먹 끝나는구나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=184962&list_num=100&page=2",
-      "published_at": "2026-11-14T14:01:50Z",
-      "snippet": "",
-      "first_seen": "2026-11-14T15:50:14Z",
-      "last_seen": "2026-11-14T15:50:14Z",
-      "score": 15,
-      "tags": [
-        "크레딧·혜택"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "f81ea9e61b6397de7008": {
-      "id": "f81ea9e61b6397de7008",
-      "source": "AI 활용 갤러리",
-      "title": "ㅋㅋㅋㅋ 크레딧 고마워요 이지랄 ㅅㅂ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=184945&list_num=100&page=2",
-      "published_at": "2026-11-14T13:53:44Z",
-      "snippet": "",
-      "first_seen": "2026-11-14T15:50:14Z",
-      "last_seen": "2026-11-14T15:50:14Z",
-      "score": 7,
-      "tags": [
-        "크레딧·혜택"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "bc0b025770fb45d2ff56": {
-      "id": "bc0b025770fb45d2ff56",
-      "source": "AI 활용 갤러리",
-      "title": "리버쌀먹딥식은 무검열인건가?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=184844&list_num=100&page=3",
-      "published_at": "2026-11-14T12:44:58Z",
-      "snippet": "",
-      "first_seen": "2026-11-14T15:50:14Z",
-      "last_seen": "2026-11-14T15:50:14Z",
-      "score": 10,
-      "tags": [
-        "무료정보"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "3faf5ff263e9a996f5a0": {
-      "id": "3faf5ff263e9a996f5a0",
-      "source": "AI 활용 갤러리",
-      "title": "gpt 이전에 x20 크레딧 62500? 준거 만료가 이번달까지던가?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=184843&list_num=100&page=3",
-      "published_at": "2026-11-14T12:44:55Z",
-      "snippet": "",
-      "first_seen": "2026-11-14T15:50:14Z",
-      "last_seen": "2026-11-14T15:50:14Z",
-      "score": 7,
-      "tags": [
-        "크레딧·혜택"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "ff22b2f9e534880d3b2c": {
-      "id": "ff22b2f9e534880d3b2c",
-      "source": "AI 활용 갤러리",
-      "title": "사용 크레딧 추가로 구매하면 양이 딱 그만큼 늘어나는건가?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=184840&list_num=100&page=3",
-      "published_at": "2026-11-14T12:44:16Z",
-      "snippet": "",
-      "first_seen": "2026-11-14T15:50:14Z",
-      "last_seen": "2026-11-14T15:50:14Z",
-      "score": 7,
-      "tags": [
-        "크레딧·혜택"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "951e44dc100fbe6dfbbb": {
-      "id": "951e44dc100fbe6dfbbb",
-      "source": "Hacker News",
-      "title": "Show HN: Orty – AI lead qualification for freelancers",
-      "url": "https://news.ycombinator.com/item?id=50495892",
-      "published_at": "2026-11-14T10:40:41Z",
-      "snippet": "Orty is an AI lead qualification that does 2 things: writes the email for you when you find a client , and helps you to find that client without a database or scraping the web . Honestly i built it because of a problem i had when i started working in the freelance industry , the problem wasn't finding people because you can find 1,000 people a day and send them an email using AI , but it was finding who is worth it without spending much time on that. It's pretty easy to explain how it works beca",
-      "first_seen": "2026-11-14T15:50:14Z",
-      "last_seen": "2026-11-26T23:19:29Z",
-      "score": 6,
-      "tags": [
-        "API·토큰"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "a74a84d1574006e58e66": {
-      "id": "a74a84d1574006e58e66",
-      "source": "공식 · Google Gemini",
-      "title": "Gemini AI API 무료등급 공식 안내",
-      "url": "https://ai.google.dev/gemini-api/docs/pricing",
-      "published_at": null,
-      "snippet": "odels * {% icon name=\"check_circle\" /%} Free input & output tokens * {% icon name=\"check_circle\" /%} Google AI Studio access * {% icon name=\"check_circle\" /%} Content used to improve our products{% sup %}[*](/docs/terms){% /su",
-      "first_seen": "2026-11-14T08:58:17Z",
-      "last_seen": "2026-11-26T23:19:29Z",
-      "verified_at": "2026-11-26T23:19:03Z",
-      "verification": "official_page_text_only",
-      "score": 9,
-      "tags": [
-        "API·토큰"
-      ],
-      "credibility": "공식 도메인 게시물 · 조건 별도 확인"
-    },
-    "fa8a26d681e5cd1ec5d0": {
-      "id": "fa8a26d681e5cd1ec5d0",
-      "source": "공식 · Cloudflare",
-      "title": "Cloudflare Workers AI 무료 API 할당량 안내",
-      "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
-      "published_at": null,
-      "snippet": "ocation allows anyone to use a total of 10,000 Neurons per day at no charge . To use more than 10,000 Neurons per day, you need to sign up for the Workers Paid plan . On Workers Paid, you will be charged at $0.011 / 1,000 Neurons for a",
-      "first_seen": "2026-11-14T08:58:17Z",
-      "last_seen": "2026-11-26T23:19:29Z",
-      "verified_at": "2026-11-26T23:19:04Z",
-      "verification": "official_page_text_only",
-      "score": 13,
-      "tags": [
-        "API·토큰"
-      ],
-      "credibility": "공식 도메인 게시물 · 조건 별도 확인"
-    },
-    "7c17c1e53401a38efeb4": {
-      "id": "7c17c1e53401a38efeb4",
-      "source": "Google News · 한국",
-      "title": "NC AI, 게임 개발자 70여 명과 ‘판교 빌더스’ 출범…바르코 1개월 무료 이용권 제공 - 위키트리",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LN0pKR0hjZXRYQVF2VE5Pc1FrTzBuN1Rzcjl6MVRxT25DTW1nTEFCUDFlV2Fhd0RwUFl6d0JSc1dia2VQZE5ZcUtYMWJJcnVaZjNSajhB?oc=5",
-      "published_at": "2026-11-14T08:27:00Z",
-      "snippet": "NC AI, 게임 개발자 70여 명과 ‘판교 빌더스’ 출범…바르코 1개월 무료 이용권 제공 위키트리",
-      "first_seen": "2026-11-14T20:43:15Z",
-      "last_seen": "2026-11-17T18:38:30Z",
-      "score": 6,
-      "tags": [
-        "무료정보"
-      ],
-      "credibility": "뉴스 검색 결과 · 공식 확인 필요"
-    },
-    "a23c13ccd2768e4d91fb": {
-      "id": "a23c13ccd2768e4d91fb",
-      "source": "AI 활용 갤러리",
-      "title": "AI 무료버전 없애면 우리한테 할당량이 올라갈까",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=184500&list_num=100&page=1",
-      "published_at": "2026-11-14T07:29:23Z",
-      "snippet": "",
-      "first_seen": "2026-11-14T08:58:17Z",
-      "last_seen": "2026-11-14T08:58:17Z",
-      "score": 7,
-      "tags": [
-        "무료정보"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "1f5270bc37af77d4db6d": {
-      "id": "1f5270bc37af77d4db6d",
-      "source": "AI 활용 갤러리",
-      "title": "제미나이 프로 무료체험판 이제 끝낫음?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=184494&list_num=100&page=1",
-      "published_at": "2026-11-14T07:22:41Z",
-      "snippet": "",
-      "first_seen": "2026-11-14T08:58:17Z",
-      "last_seen": "2026-11-14T08:58:17Z",
-      "score": 12,
-      "tags": [
-        "체험·무료등급"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "f1fb95921744d8ced42e": {
-      "id": "f1fb95921744d8ced42e",
-      "source": "AI 활용 갤러리",
-      "title": "claude api 크레딧 다들 어디에 씀?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=184404&list_num=100&page=2",
-      "published_at": "2026-11-14T05:56:49Z",
-      "snippet": "",
-      "first_seen": "2026-11-14T08:58:17Z",
-      "last_seen": "2026-11-14T08:58:17Z",
-      "score": 8,
-      "tags": [
-        "API·토큰",
-        "크레딧·혜택"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
-    },
-    "6a4fb35f1a533a9be0fe": {
-      "id": "6a4fb35f1a533a9be0fe",
-      "source": "AI 활용 갤러리",
-      "title": "gpt 크레딧 준거 무료나 플러스로 내려도 유지됨?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=ai_utilize&no=184403&list_num=100&page=2",
-      "published_at": "2026-11-14T05:52:46Z",
-      "snippet": "",
-      "first_seen": "2026-11-14T08:58:17Z",
-      "last_seen": "2026-11-14T08:58:17Z",
-      "score": 10,
-      "tags": [
-        "크레딧·혜택"
-      ],
-      "credibility": "커뮤니티 제보 · 검증 필요"
     }
   },
   "notified": [],
-  "last_checked": "2026-11-26T23:19:29Z"
+  "last_checked": "2026-11-27T05:22:40Z"
 }
